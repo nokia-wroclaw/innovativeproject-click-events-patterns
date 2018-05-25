@@ -1,6 +1,7 @@
-from flask import Blueprint, request
+from flask import Blueprint, request, jsonify
 import api
-from api.logic.Recommendation import loadDump, getRecommendationForUser
+
+from api.logic.modelPredictions import loadDump, getRecommendationForUser
 
 main = Blueprint('main', __name__)
 
@@ -8,10 +9,8 @@ main = Blueprint('main', __name__)
 def index():
     return api.app.instance_path.casefold();
 
-@main.route('/recommendation/<user>', methods=['POST'])
+
+@main.route('/recommendation/<user>', methods=['GET'])
 def dump(user):
-    f = request.files['data_file']
-    if not f:
-        return "No file"
-    getRecommendationForUser(f, user)
-    return user;
+    recomendationlist = getRecommendationForUser(user)
+    return jsonify(recomendationlist)

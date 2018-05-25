@@ -1,30 +1,30 @@
 from collections import defaultdict
 import pandas as pd
-from surprise import dump
+from surprise import dump, Reader, Dataset
 import glob
 import os
 
-from api.logic.PrepareData import getTestsetFromCsv
+from api.filehandling.FileManager import getLatestCsvFile, loadModel
+from api.logic.recommenderSystem import loadDump
 
 
-def loadDump():
-    file_name = getLatestDumpPath()
-    return dump.load(file_name)
+def getRecommendationForUser(user):
+    algo = loadModel()
+    data = pd.read_csv(getLatestCsvFile(), sep=',')
+    userTestItems = prepareDataForUser(user, data)
+    predictions = calclatePredicionsForUser(algo, user, userTestItems)
+    return predictions;
 
+def prepareDataForUser(user, data):
+    data = data[data.actionCategory == "WebNei clicked"]
+    userItems = data[data.userName == user].actionName.unique()
+    return data[-data.actionName.isin(userItems)].actionName.unique()
 
-def getLatestDumpPath():
-    list_of_files = glob.glob(os.path.join("api","dump","*"))
-    return max(list_of_files, key=os.path.getctime)
-
-def getRecommendationForUser(CSVfile, user):
-    algo = loadDump()[1]
-    data = pd.read_csv(CSVfile, sep=',')
-    data = data[data.actionCategory == "WebNei clicked"].actionName.unique()
-    l = list(map(lambda x: algo.predict(user, x), data))
+def calclatePredicionsForUser(algo, user, userTestItems):
+    l = list(map(lambda x: algo.predict(user, x), userTestItems))
     l = [(x.iid, x.est) for x in l]
     k = sorted(l, key=lambda tup: tup[1], reverse=True)
-    p = algo.predict(user, "Introduction to Virtualization and Telco Cloud ")
-    print(k)
+    return k;
 
 def get_top_n(predictions, n=10):
     '''Return the top-N recommendation for each user from a set of predictions.
