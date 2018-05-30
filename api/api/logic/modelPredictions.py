@@ -1,45 +1,41 @@
 from collections import defaultdict
+import numpy
 import pandas as pd
-from surprise import dump, Reader, Dataset
-import glob
-import os
+
 
 from api.filehandling.FileManager import getLatestCsvFile, loadModel
-from api.logic.recommenderSystem import loadDump
+from api.logic.recommenderSystem import loadDump, prepareData
 
+
+def getUserIdFromMatrixModel(userName, data):
+    tmpdata = prepareData(data)
+    users = tmpdata.index.values
+    return numpy.where(users == userName)[0][0]
 
 def getRecommendationForUser(user):
-    algo = loadModel()
+    model = loadModel()
     data = pd.read_csv(getLatestCsvFile(), sep=',')
     userTestItems = prepareDataForUser(user, data)
-    predictions = calclatePredicionsForUser(algo, user, userTestItems)
-    return predictions;
+    tmp = prepareData(data)
+    userid =  numpy.where(tmp.index.values == user)[0][0]
+    predictions = calclatePredicionsForUser(model, userid, userTestItems)
+    results = prepareResults(predictions, userTestItems, data)
+    print(data.tail(1))
+    return results
 
 def prepareDataForUser(user, data):
     data = data[data.actionCategory == "WebNei clicked"]
+    topNames = data.groupby("actionName").size().sort_values(ascending=False)[0:50].keys()
+    data = data[data.actionName.isin(topNames)]
     userItems = data[data.userName == user].actionName.unique()
-    return data[-data.actionName.isin(userItems)].actionName.unique()
+    items = data[-data.actionName.isin(userItems)].actionName.unique()
+    return numpy.squeeze(numpy.asarray(list(map(lambda x: numpy.where(topNames == x), items))))
 
-def calclatePredicionsForUser(algo, user, userTestItems):
-    l = list(map(lambda x: algo.predict(user, x), userTestItems))
-    l = [(x.iid, x.est) for x in l]
-    k = sorted(l, key=lambda tup: tup[1], reverse=True)
-    return k;
+
+def calclatePredicionsForUser(model, user_id, userTestItems_ids = numpy.arange(50)):
+    return model.predict(numpy.repeat(user_id, userTestItems_ids.size), userTestItems_ids)
 
 def get_top_n(predictions, n=10):
-    '''Return the top-N recommendation for each user from a set of predictions.
-
-    Args:
-        predictions(list of Prediction objects): The list of predictions, as
-            returned by the test method of an algorithm.
-        n(int): The number of recommendation to output for each user. Default
-            is 10.
-
-    Returns:
-    A dict where keys are user (raw) ids and values are lists of tuples:
-        [(raw item id, rating estimation), ...] of size n.
-    '''
-
     # First map the predictions to each user.
     top_n = defaultdict(list)
     for uid, iid, true_r, est, _ in predictions:
@@ -51,3 +47,10 @@ def get_top_n(predictions, n=10):
         top_n[uid] = user_ratings[:n]
 
     return top_n
+
+def prepareResults(predictions, userTestItems, df):
+    df = df[df.actionCategory == "WebNei clicked"]
+    topNames = df.groupby("actionName").size().sort_values(ascending=False)[0:50].keys()
+    results = [(topNames[userTestItems[x]], predictions[x]) for x in range(userTestItems.size)]
+    results.sort(key=lambda tup: tup[1], reverse = True)
+    return results

@@ -17,8 +17,8 @@ def isCsvFilesDirEmpty():
 
 def handelCSVfile(CSVfile):
     data = pd.read_csv(CSVfile, sep=',')
-    algo = createRecommenderModel(data)
-    saveModel(algo)
+    model = createRecommenderModel(data)
+    saveModel(model)
 
 
 def createDumpPath():
@@ -45,7 +45,7 @@ def getLatestCsvFile():
 
 def loadModel():
     fileName = getLatestDumpPath()
-    return loadDump(fileName)[1]
+    return loadDump(fileName)
 
 def getLatestDumpPath():
     list_of_files = glob.glob(os.path.join("api","dump","*"))

@@ -1,55 +1,55 @@
-from surprise import NormalPredictor, dump
-from surprise import Dataset
-from surprise import Reader
-from surprise.prediction_algorithms.matrix_factorization import SVD
+from lightfm import LightFM, cross_validation
+from scipy.sparse import coo_matrix
+from sklearn.externals import joblib
+from lightfm.evaluation import auc_score
 
 import pandas as pd
 
 def createRecommenderModel(data):
     preparedData = prepareData(data)
     matrix = createMatrix(preparedData)
+    model = createModel()
+    model = trainModel(model, matrix)
+    return model
 
-    # A reader is still needed but only the rating_scale param is requiered.
-    reader = Reader(rating_scale=(0, 1))
-    # The columns must correspond to user id, item id and ratings (in that order).
-    data = Dataset.load_from_df(matrix[['userID', 'itemID', 'rating']], reader)
-    algo = trainModel(data)
-    return algo
+def createModel(components = 30, item_alpha = 1e-6):
+    # Let's fit a WARP model: these generally have the best performance.
+    model = LightFM(loss='warp',
+                    item_alpha=item_alpha,
+                    no_components=components)
+    return model
 
-
-def prepareData(data):
-    data = data[data.actionCategory == "WebNei clicked"]
-    topNames = data.groupby("actionName").size().sort_values(ascending=False)[0:20].keys()
-    data = data[data.actionName.isin(topNames)]
-    actionByUsers = data.groupby(["userName", "actionName"]).size()
+def prepareData(df, max_items = 50):
+    df = df[df.actionCategory == "WebNei clicked"]
+    topNames = df.groupby("actionName").size().sort_values(ascending=False)[0:max_items].keys()
+    df = df[df.actionName.isin(topNames)]
+    actionByUsers = df.groupby(["userName", "actionName"]).size()
     actionByUsers = actionByUsers.apply(lambda x: 1)
+    actionByUsers = actionByUsers.unstack()
+    actionByUsers = actionByUsers.fillna(0.0)
     return actionByUsers
 
 
 def createMatrix(data):
-    users = list(data.index.get_level_values(0))
-    items = list(data.index.get_level_values(1))
-    ratings = list(data.values)
-    # Creation of the dataframe. Column names are irrelevant.
-    ratings_dict = {'itemID': items,
-                    'userID': users,
-                    'rating': ratings}
-    df = pd.DataFrame(ratings_dict)
-    return df
+    return coo_matrix(data.values)
 
 
-def trainModel(dataset):
-    algo = SVD()
+def trainModel(model, train, epochs = 20, threads = 2):
+    model = model.fit(train, epochs=epochs, num_threads=threads)
+    return model;
 
-    # We can now use this dataset as we please, e.g. calling cross_validate
-    # cross_validate(SVD(), data, cv=4)
-    trainset = dataset.build_full_trainset()
-    trained = algo.fit(trainset)
-    return algo;
+def computeAUCscore(model, matrix):
+    train, test = cross_validation.random_train_test_split(matrix)
+    test_auc = auc_score(model,
+                                 test,
+                                 train_interactions=train,
+                                 num_threads=2).mean()
+    print('AUC: %s' % test_auc)
+    return test_auc
 
-def saveDump(algo, pathDump):
-    dump.dump(pathDump, algo=algo)
+def saveDump(model, pathDump):
+    joblib.dump(model, pathDump)
 
-def loadDump(file_name):
-    return dump.load(file_name)
+def loadDump(pathDump):
+    return joblib.load(pathDump)
 
