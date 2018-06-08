@@ -16,8 +16,8 @@ def getRecommendationForUser(user):
     model = loadModel()
     data = pd.read_csv(getLatestCsvFile(), sep=',')
     userTestItems = prepareDataForUser(user, data)
-    tmp = prepareData(data)
-    userid =  numpy.where(tmp.index.values == user)[0][0]
+    userNames = data[data.actionCategory == "WebNei clicked"].userName.unique()
+    userid =  numpy.where(userNames == user)[0][0]
     predictions = calclatePredicionsForUser(model, userid, userTestItems)
     results = prepareResults(predictions, userTestItems, data)
     print(data.tail(1))
@@ -25,11 +25,10 @@ def getRecommendationForUser(user):
 
 def prepareDataForUser(user, data):
     data = data[data.actionCategory == "WebNei clicked"]
-    topNames = data.groupby("actionName").size().sort_values(ascending=False)[0:50].keys()
-    data = data[data.actionName.isin(topNames)]
+    itemNames = data.actionName.unique()
     userItems = data[data.userName == user].actionName.unique()
     items = data[-data.actionName.isin(userItems)].actionName.unique()
-    return numpy.squeeze(numpy.asarray(list(map(lambda x: numpy.where(topNames == x), items))))
+    return numpy.squeeze(numpy.asarray(list(map(lambda x: numpy.where(itemNames == x), items))))
 
 
 def calclatePredicionsForUser(model, user_id, userTestItems_ids = numpy.arange(50)):
@@ -50,7 +49,7 @@ def get_top_n(predictions, n=10):
 
 def prepareResults(predictions, userTestItems, df):
     df = df[df.actionCategory == "WebNei clicked"]
-    topNames = df.groupby("actionName").size().sort_values(ascending=False)[0:50].keys()
+    topNames = df.groupby("actionName").size().keys()
     results = [(topNames[userTestItems[x]], predictions[x]) for x in range(userTestItems.size)]
     results.sort(key=lambda tup: tup[1], reverse = True)
     return results

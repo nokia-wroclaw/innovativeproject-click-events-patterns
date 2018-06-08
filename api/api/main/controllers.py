@@ -13,4 +13,4 @@ def index():
 @main.route('/recommendation/<user>', methods=['GET'])
 def dump(user):
     recomendationlist = getRecommendationForUser(user)
-    return jsonify(recomendationlist)
+    return jsonify(recomendationlist[:20])

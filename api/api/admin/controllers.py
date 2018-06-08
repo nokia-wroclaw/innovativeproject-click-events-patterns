@@ -1,15 +1,10 @@
-import os
-from flask import Blueprint, make_response, request
-import datetime
-import uuid
-
+from flask import Blueprint, request
 
 import api
-from api.filehandling.FileManager import handelCSVfile, saveCsvFile, getLatestCsvFile, isCsvFilesDirEmpty
-from api.logic.csvManipulation import createUnificatePresentationNameColmun
+from api.filehandling.FileManager import handelCSVfile, saveCsvFile, getLatestCsvFile, isCsvFilesDirEmpty, saveTagsFile, \
+    getLatestTagsFile
 
 admin = Blueprint('admin', __name__)
-
 
 @admin.route('/uploadCsv', methods=['POST'])
 def uploadCsv():
@@ -18,6 +13,14 @@ def uploadCsv():
         return "No file"
     saveCsvFile(f)
     return "csv file uploaded"
+
+@admin.route('/uploadTags', methods=['POST'])
+def uploadJson():
+    f = request.files['data_file']
+    if not f:
+        return "No file"
+    saveTagsFile(f)
+    return "tags file uploaded"
 
 
 @admin.route('/computeModelFromCsv', methods=['POST'])
@@ -36,4 +39,25 @@ def computeModelFromExistingCsv():
         return "No csv file available"
     f = getLatestCsvFile()
     handelCSVfile(f)
+    return "Sucesfully computed recommender model"
+
+@admin.route('/computeModelFromExistingCsvWithTags', methods=['POST'])
+def computeModelFromExistingCsvWithTags():
+    if not isCsvFilesDirEmpty():
+        return "No csv file available"
+    f = getLatestCsvFile()
+    g = getLatestTagsFile()
+    handelCSVfile(f, g)
+    return "Sucesfully computed recommender model"
+
+
+@admin.route('/computeModelFromCsvWithTags', methods=['POST'])
+def computeModelFromCsvWithTags():
+    g = request.files['tags_file']
+    f = request.files['data_file']
+    if (f.filename == '') & (g.filename == ''):
+        return "No files available"
+    f = saveCsvFile(f)
+    g = saveTagsFile(g)
+    handelCSVfile(f, g)
     return "Sucesfully computed recommender model"

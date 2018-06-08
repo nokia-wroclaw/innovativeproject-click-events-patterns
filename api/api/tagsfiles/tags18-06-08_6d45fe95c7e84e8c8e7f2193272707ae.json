@@ -1,0 +1,12269 @@
+[
+	{
+		"title" : "Orthogonal Sub-channel",
+		"key" : "BSS21309",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Precise Paging",
+		"key" : "BSS21335",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Precise Paging Trial Guideline (starter kit)",
+		"key" : "BSS21335",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "DC-HSUPA 11.5 Mbps",
+		"key" : "RAN1905",
+		"tags" : [
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced HSUPA interference Cancellation",
+		"key" : "RAN2250",
+		"tags" : [
+			"Peak Rate",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{ "title" : "HS Cell_FACH", "key" : "RAN1913", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "Voice Call Priorization during High Traffic Load (starter kit)",
+		"key" : "RAN2954",
+		"tags" : [
+			"Mass Events"
+		]
+	}
+	,
+	{
+		"title" : "Wideband AMR (WB-AMR)",
+		"key" : "BSS20960",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "WebRTC Signalling Gateway",
+		"key" : "",
+		"tags" : [
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "MORAN for up to 4 Operators",
+		"key" : "RAN1452",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "FlexiNS/FlexiNG: IMS Emergency Call",
+		"key" : "",
+		"tags" : [
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "FlexiNS: Controlled Roaming",
+		"key" : "",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "PM counter delta RL60/RL45 (Performance Management Summary of all PM counter changes introduced in the RL60 and RL45TD)",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Comparison of LTE 800MHz and LTE 2600MHz",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Features vs performance study",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Comprehensive SingleRAN approach in GSM-WCDMA Refarming and RF Sharing",
+		"key" : "",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "ANR InterRAT GERAN",
+		"key" : "LTE784",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "ToP phase synchronization for DFCA",
+		"key" : "BSS101684",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{
+		"title" : "Multicontroller RNC",
+		"key" : "RAN1672",
+		"tags" : [
+			"Controller",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RF Sharing WCDMA - LTE",
+		"key" : "RAN2126",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "RF sharing WCDMA-LTE",
+		"key" : "LTE435",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "HSUPA Compressed Mode for LTE and Inter-frequency Handover",
+		"key" : "RAN1668",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Shared Transport QoS Aspects",
+		"key" : "",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Packet TRS for UltraSite / BTSplus",
+		"key" : "BSS21443",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{ "title" : "Packet Abis", "key" : "BSS21231", "tags" : [ "Transport" ] }
+	,
+	{
+		"title" : "Introduction to Virtualization and Telco Cloud",
+		"key" : "",
+		"tags" : [
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "OpenTAS Virtualization and Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "RACH Capacity Increase",
+		"key" : "RAN2902",
+		"tags" : [
+			"Dimensioning",
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "High Speed Cell_FACH Enhanced",
+		"key" : "RAN2518",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "HSPA Subscriber Increase",
+		"key" : "RAN2869",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "IRC Receiver",
+		"key" : "RAN3040",
+		"tags" : [
+			"Beamforming",
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Network Resiliency for mcRNC",
+		"key" : "RAN3005",
+		"tags" : [
+			"Dimensioning",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Advanced HSUPA Time Division Scheduling",
+		"key" : "RAN3043",
+		"tags" : [
+			"Dimensioning",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Activity Based UL Power Control for Rel99 DCH",
+		"key" : "RAN3045",
+		"tags" : [
+			"Dimensioning",
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "Signaling capacity license for mcRNC",
+		"key" : "RAN3057",
+		"tags" : [
+			"Controller",
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Interference Rejection Combining Receiver",
+		"key" : "RAN3040",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "HSPA Subscriber Increase",
+		"key" : "RAN2869",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "3GPP Release 11 for Network Provided Location Information for IMS (NETLOC)",
+		"key" : "",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Service Based Paging Policy",
+		"key" : "",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Multiradio BTS Antenna Rx RF-sniffing",
+		"key" : "RAN3060",
+		"tags" : [
+			"Admission Control",
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "IPA-RNC Symptom Report",
+		"key" : "RAN2872",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced IMSI Based Call Monitoring",
+		"key" : "RAN2973",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Modification of WCDMA Frequency",
+		"key" : "RAN2991",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Delta Configuration and Change Notification for BTS Transport",
+		"key" : "RAN2706",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Multi-RAB Dedicated Counter Set",
+		"key" : "RAN2862",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Compensated CQI Measurement",
+		"key" : "RAN2164",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Energy Efficiency Shut Down Mode with RF Sharing",
+		"key" : "RAN3247",
+		"tags" : [
+			"Power Consumption",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Parameter Level Logging of BTS User Events",
+		"key" : "RAN2702",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "QCI1 establishment triggered protection timer",
+		"key" : "LTE2430",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Cell Change from HSPA to 2G",
+		"key" : "RAN3218",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Introduction to NOKIA VoWiFi solution",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "VoWiFi effects on Core Network Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "ePDG Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Terminating Access Domain Selection for VoWiFi",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Activity Based UL Power Control for Rel99 DCH",
+		"key" : "RAN3045",
+		"tags" : [
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "RAN Information Management for UTRAN",
+		"key" : "LTE1196",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Multi-band Load Balancing",
+		"key" : "RAN3093",
+		"tags" : [
+			"Load Balancing"
+		]
+	}
+	,
+	{
+		"title" : "Flexi RFM 6T6R 2100 (FRGU)",
+		"key" : "RAN3158",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FASB 2.4m RAS 1.9G 1.7/2.1G 698-894M",
+		"key" : "LTE2448",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "L3 Connectivity for Multicontroller BSC",
+		"key" : "BSS101431",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{
+		"title" : "Measurement based SCell selection",
+		"key" : "LTE2276",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Extended Measurement Control",
+		"key" : "LTE2057",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Porting of basic transport features to Cloud BTS (trial)",
+		"key" : "RC0096",
+		"tags" : [
+			"Telco Cloud",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Optimized Neighbor Cell Processing",
+		"key" : "RAN3271",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "VoWiFi Performance",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "TDD Intra-band Multi-Carrier Operation for Two-board Flexi Zone Micro BTS",
+		"key" : "LTE1919",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FZHM Flexi RRH 8TX 2600 BD41 for China",
+		"key" : "LTE1780",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZHI Flexi RRH 8TX 2600 8x20W",
+		"key" : "LTE1814",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZHM Flexi RFM 8TX 2600 8x15",
+		"key" : "LTE1847",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FWEA Flexi Zone BTS 1800 (Band 3)",
+		"key" : "LTE1728",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "RL55TD Capacity and Performance",
+		"key" : "LTE1756",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Automatic PUCCH Capacity Optimization",
+		"key" : "LTE1808",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "LTE-GSM RF sharing with full FBBC support",
+		"key" : "LTE2079",
+		"tags" : [
+			"HW & Site Solutions",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "LTE extended configurations up to 6 frequency bands",
+		"key" : "LTE1746",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Dual U-Plane IP Addresse",
+		"key" : "LTE1771",
+		"tags" : [
+			"Public Safety",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "GNSS Manual Location Entry for Flexi Zone",
+		"key" : "LTE2063",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Serving PLMN ID change during X2 based handover",
+		"key" : "LTE1731",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "VoIP e2e Dimensioning Guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Smart Dual Beam",
+		"key" : "RG302196",
+		"tags" : [
+			"Downlink Radio Transmission"
+		]
+	}
+	,
+	{
+		"title" : "FlexiNS: 2G MOCN",
+		"key" : "",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "HSUPA Interference Cancellation Receiver",
+		"key" : "RAN1308",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{ "title" : "HS Cell_FACH DL", "key" : "RAN1637", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "HSPA 128 Users per Cell",
+		"key" : "RAN2124",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Tandem Free Operation (TFO) for AMR",
+		"key" : "BSS21118",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Narrow LTE Carrier Bandwidth",
+		"key" : "RG302087",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "SIP (Session Initiation Protocol)",
+		"key" : "",
+		"tags" : [
+			"Telco Cloud",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Support of Visited Network Scenario",
+		"key" : "",
+		"tags" : [
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Direct interface for IMS to Traffica",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{ "title" : "IMS Basics", "key" : "", "tags" : [ "Telco Cloud" ] }
+	,
+	{
+		"title" : "Transport Separation for RAN Sharing",
+		"key" : "LTE505",
+		"tags" : [
+			"Network Sharing",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Multi-Operator Core Network",
+		"key" : "RAN966",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "MOCN Release 10 Support",
+		"key" : "RG301777",
+		"tags" : [
+			"Controller",
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Multi-Operator Core Network",
+		"key" : "LTE4",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "RL45TD LTE system capacity monitoring and congestion prevention guideline",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "PM counter delta RL50/RL35 (Performance Management Summary of all PM counter changes introduced in the RL50 and RL35TD)",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "MoRSE simulations on Open and Closed Loop Power Control with FTP traffic and variable load",
+		"key" : "",
+		"tags" : [
+			"Power Control",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "MoRSE simulations on VoIP and Power Control",
+		"key" : "",
+		"tags" : [
+			"Power Control",
+			"Simulations",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "UL schedulers analysis (scheduler types comparison)",
+		"key" : "",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "IRC vs load",
+		"key" : "",
+		"tags" : [
+			"Simulations",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Number of UEs per TTI investigation",
+		"key" : "",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Simulations",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Usage based PDCCH adaptation LTE616",
+		"key" : "LTE616",
+		"tags" : [
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "MoRSE simulations on AAS vertical sectorization part 1 Full buffer traffic",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "MoRSE simulations on AAS vertical sectorization part 2 FTP/HTTP traffic",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Packet Abis and AoIP trial guideline (starter kit)",
+		"key" : "BSS21231",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Inter-RAT Neighbor Relation Optimization",
+		"key" : "LTE507",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Idle Mode Mobility Load Balancing",
+		"key" : "LTE487",
+		"tags" : [
+			"Load Balancing",
+			"Mass Events",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Inter RAT handover from UTRAN",
+		"key" : "LTE57",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "ANR Intra-LTE, Inter-frequency - UE based",
+		"key" : "LTE556",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Idle Mode Mobility Balancing Extensions",
+		"key" : "LTE1677",
+		"tags" : [
+			"Load Balancing",
+			"Mass Events",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Synchronization of InterRAT neigbhors",
+		"key" : "LTE510",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "ANR InterRAT UTRAN",
+		"key" : "LTE783",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Idle mode mobility from LTE to CDMA/1xRTT",
+		"key" : "LTE807",
+		"tags" : [
+			"Load Balancing",
+			"Mass Events",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : " GSM Redirect with System Information",
+		"key" : "LTE984",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "ANR Inter-RAT GERAN (starter kit)",
+		"key" : "LTE784",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "RSRQ-based LTE Reselection",
+		"key" : "RAN3069",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "WCDMA & GSM Absolute Layer Priorities",
+		"key" : "RAN2881",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "2G LTE interworking",
+		"key" : "FRS97715",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Geran- EUTRAN Cell Reselection",
+		"key" : "FRS98321",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Inter-RAT interworking in the context of voice and data services",
+		"key" : "",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Inter-RAT interworking in the context of voice and data services",
+		"key" : "",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Inter-RAT interworking in the context of voice and data services",
+		"key" : "",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Fast Return to LTE",
+		"key" : "RG301854",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Measurement Based LTE Layering (starter kit)",
+		"key" : "RAN2980",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Smart LTE Handover",
+		"key" : "RAN2264",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Smart LTE Handover (starter kit)",
+		"key" : "RAN2264",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Smart LTE Layering",
+		"key" : "RAN2717",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Smart LTE Layering (starter kit)",
+		"key" : "RAN2717",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "LTE/GSM coexistence",
+		"key" : "",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "LTE/GSM coexistence",
+		"key" : "",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "LTE-WCDMA coexistence",
+		"key" : "",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "LTE-WCDMA coexistence",
+		"key" : "",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Automatic mcRNC Resource Optimization",
+		"key" : "RAN2251",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{
+		"title" : "mcRNC release 2 HW support",
+		"key" : "RAN2240",
+		"tags" : [
+			"Controller",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Selective BTS Resource Re-Balancing in mcRNC",
+		"key" : "RAN2591",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{
+		"title" : "RF sharing WCDMA-GSM",
+		"key" : "RAN1770",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "SW support for RF sharing GSM-LTE",
+		"key" : "LTE447",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "RF Sharing GSM - LTE",
+		"key" : "BSS21520",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "3-RAT RF Sharing 2G-3G & 2G-4G",
+		"key" : "LTE1556",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "3-RAT RF Sharing 2G-3G & 2G-4G",
+		"key" : "RAN2556",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "3-RAT RF Sharing 2G-3G & 2G-4G",
+		"key" : "SR000574",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Flexi System Module rel.3 Baseband dimensioning (WCDMA)",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LTE IPsec Support",
+		"key" : "LTE689",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "LTE OAM Transport Layer Security (TLS) Support",
+		"key" : "LTE150",
+		"tags" : [
+			"Operability",
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "QoS aware Ethernet Switching",
+		"key" : "LTE649",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPSec on FTIB",
+		"key" : "LTE564",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "DNS support for certificate examination",
+		"key" : "LTE482",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Fast IP rerouting",
+		"key" : "LTE866",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Fast IP Rerouting",
+		"key" : "RAN2440",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "OSPF Enhancements in BTS",
+		"key" : "RAN2359",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic Routing by OSPF",
+		"key" : "RAN1879",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IP Security",
+		"key" : "RAN1747",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "QoS aware Ethernet Switching",
+		"key" : "RAN1769",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Packet Abis transport media conversion",
+		"key" : "BSS101414",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "QoS aware Ethernet Switching",
+		"key" : "BSS101417",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Ethernet Ringpath Protection",
+		"key" : "BSS101406",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Packet Abis Security",
+		"key" : "BSS21444",
+		"tags" : [
+			"Security"
+		]
+	}
+	,
+	{
+		"title" : "External licensed wireless backhaul",
+		"key" : "LTE1626",
+		"tags" : [
+			"Small Cells",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "External unlicensed wireless backhaul",
+		"key" : "LTE1625",
+		"tags" : [
+			"Small Cells",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "RACH Optimization",
+		"key" : "LTE962",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Small Cells Performance Considerations",
+		"key" : "",
+		"tags" : [
+			"Performance",
+			"Simulations",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Offer Dimensioning for RL50FZ",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"HW & Site Solutions",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Mobility Management in Macro-Micro Scenarios",
+		"key" : "",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{ "title" : "Cloud MME", "key" : "", "tags" : [ "Telco Cloud" ] }
+	,
+	{
+		"title" : "NCIO dimensioning for FlexiNS 15 Cloud (vMME) including pricing",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "NCIV 15.5 dimensioning for IMS Cloud including pricing",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "SRVCC to GSM",
+		"key" : "LTE873",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "SRVCC to WCDMA",
+		"key" : "LTE872",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Service based Mobility Trigger",
+		"key" : "LTE1127",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Extended VoLTE Talk Time",
+		"key" : "LTE1406",
+		"tags" : [
+			"Power Consumption",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Redirected VoLTE Call Setup",
+		"key" : "LTE2108",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "RAN Information Management for GSM",
+		"key" : "LTE498",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Emergency Call Handling",
+		"key" : "LTE22",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "CS fallback to UTRAN or GSM via redirect",
+		"key" : "LTE562",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Core Network for VoLTE - CS Fallback",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "CS Fallback to UTRAN",
+		"key" : "LTE736",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "VoLTE performance monitoring",
+		"key" : "",
+		"tags" : [
+			"Performance",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "EPS Bearer for Conversational Voice",
+		"key" : "LTE10",
+		"tags" : [
+			"Admission Control",
+			"Performance",
+			"Scheduler",
+			"Simulations",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "SRVCC from LTE and CSFB with HO",
+		"key" : "RAN2435",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Core Network for VoLTE / QoS / IP-SM-GW / SRVCC",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Zone Pico BTS",
+		"key" : "RAN3217",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "VSWR Monitoring",
+		"key" : "RAN2304",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Service based mobility thresholds",
+		"key" : "LTE64",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "SingleRAN System Module sharing functionality",
+		"key" : "SR000972",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SingleRAN16.2 Introduction to Common Transport",
+		"key" : "",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Flexi RRH 2T2R 850 120W (FRCG)",
+		"key" : "RAN3246",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXEE Flexi RFM 3-Pipe 1800 240W",
+		"key" : "LTE2471",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRCC Flexi RRH 2-Pipe 865 80W S",
+		"key" : "LTE2310",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRBG Flexi RRH 4-Pipe 730&720T 160W",
+		"key" : "LTE2266",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRNC Flexi RRH 4-Pipe 2300 120W",
+		"key" : "LTE2264",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRCG Flexi RRH 2-Pipe 850 120W",
+		"key" : "LTE2263",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FHEI Flexi Metro RRH 2-pipe 1800 10W L",
+		"key" : "LTE2245",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FHPC Flexi RRH 2/2-Pipe 700&850 100W K",
+		"key" : "LTE2148",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRBF Flexi RRH 4-Pipe 760 160W",
+		"key" : "LTE2146",
+		"tags" : [
+			"HW & Site Solutions",
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "SRVCC from LTE and CSFB with HO (starter kit)",
+		"key" : "RAN2435",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "SBTS Software Management",
+		"key" : "SR000912",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "LTE-WCDMA RF sharing with full FBBC support",
+		"key" : "LTE2080",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UL IRC receiver",
+		"key" : "LTE936",
+		"tags" : [
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "BSC & Transcoder on Multicontroller HW Platform ",
+		"key" : "BSS21530",
+		"tags" : [
+			"Controller",
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "DL SU MIMO 8x4 with TM9",
+		"key" : "LTE2068",
+		"tags" : [
+			"Beamforming",
+			"Downlink Radio Transmission",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "UE tracing support in BTS",
+		"key" : "RAN2861",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Classical LTE-GSM RF-sharing with FHEL 2T2R 1800 Full Band RRH",
+		"key" : "LTE2988",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Classical LTE(MORAN)-GSM(MOBSS) RF sharing with one SM per operator",
+		"key" : "LTE2387",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Introduction of Public Safety specific QCI bearers",
+		"key" : "LTE2611",
+		"tags" : [
+			"Admission Control",
+			"Public Safety",
+			"QoS"
+		]
+	}
+	,
+	{
+		"title" : "8T8R and 2T2R mixed configuration",
+		"key" : "LTE2399",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "CA Aware IMMLB",
+		"key" : "LTE2601",
+		"tags" : [
+			"Load Balancing"
+		]
+	}
+	,
+	{
+		"title" : "Usage based PDCCH adaptation",
+		"key" : "LTE939",
+		"tags" : [
+			"Link Adaptation"
+		]
+	}
+	,
+	{
+		"title" : "Extended Uplink Link Adaptation",
+		"key" : "LTE1034",
+		"tags" : [
+			"Link Adaptation"
+		]
+	}
+	,
+	{
+		"title" : "Link adaptation by AMC (UL/DL)",
+		"key" : "LTE31",
+		"tags" : [
+			"Link Adaptation"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.10 Upgrade",
+		"key" : "SR001064",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "ProSe Direct Communications for Public Safety",
+		"key" : "LTE2612",
+		"tags" : [
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RRH 2T2R 1800 120W FHEL",
+		"key" : "SR001090",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SBTS Support for FHEL Flexi RRH 2-pipe 1800 120W",
+		"key" : "SR001121",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRGX Flexi RFM 3-pipe 2100 240W",
+		"key" : "SR001144",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FASC 2.0m RAS 2.3-2.6G 1.7-2.2G 694-960M",
+		"key" : "LTE2449",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Load based Power Saving for multi-layer networks",
+		"key" : "LTE1103",
+		"tags" : [
+			"Power Consumption"
+		]
+	}
+	,
+	{
+		"title" : "Energy Efficiency Shut Down Mode with RF Sharing",
+		"key" : "RAN3247",
+		"tags" : [
+			"Power Consumption",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.10 overview and upgrade",
+		"key" : "SR001064",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Optimized HSDPA Scheduler",
+		"key" : "RAN3269",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "4RX diversity 20MHz optimized configurations",
+		"key" : "LTE2605",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Dual Carrier support LTE1.4 and LTE3",
+		"key" : "LTE2609",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Quad carrier on single RF unit",
+		"key" : "LTE2637",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Basic FDD Configurations for AirScale",
+		"key" : "LTE2722",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Power Control",
+		"key" : "RAN3263",
+		"tags" : [
+			"Power Consumption",
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Zone Single Frequency Network Support",
+		"key" : "LTE2959",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "MOCN Capacity Assurance",
+		"key" : "RAN2825",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Flexible HSDPA Carriers Allocation",
+		"key" : "RAN3067",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "HSUPA Baseband Boost for non-FDPCH Users",
+		"key" : "RAN3259",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZFI Flexi RRH 8-pipe 1900+2600 Dual-Band 240W I",
+		"key" : "LTE2608",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZNE 2300 2x60W RRH",
+		"key" : "LTE2758",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Support Cpri IQ data Compression in LTE single mode operation",
+		"key" : "LTE2074",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Real-time KPI Monitoring with Traffica",
+		"key" : "LTE1053",
+		"tags" : [
+			"Mass Events",
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Robust Header Compression",
+		"key" : "LTE11",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "FDD-TDD DL Carrier Aggregation 3CC (F+2T)",
+		"key" : "LTE2316",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "IPSec Alignment",
+		"key" : "RG302038",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "DRX with parallel EU measurement gaps",
+		"key" : "LTE1679",
+		"tags" : [
+			"Power Consumption",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Neighbor Optimization: Non reachable neighbors",
+		"key" : "LTE1462",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "TTI Bundling",
+		"key" : "LTE907",
+		"tags" : [
+			"Simulations",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Inter-RAT UTRAN Neighbour Robustness",
+		"key" : "LTE2062",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Cell Resource Groups",
+		"key" : "LTE1382",
+		"tags" : [
+			"Admission Control",
+			"Network Sharing",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "LTE17 LTE17SP Carrier Aggregation aspects",
+		"key" : "",
+		"tags" : [
+			"Carrier Aggregation"
+		]
+	}
+	,
+	{
+		"title" : "FRCI Flexi RRH 2T2R 875 120W",
+		"key" : "LTE3133",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UHBF 9768 MRO B13 1W  CPRI-A MRO RRH 2-Pipe 700",
+		"key" : "LTE3413",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.2 Transport Migration",
+		"key" : "",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Emergency Call based mobility  trigger ",
+		"key" : "LTE2503",
+		"tags" : [
+			"Admission Control",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Sync Hub Direct Forward",
+		"key" : "LTE1710",
+		"tags" : [
+			"RF Sharing",
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "Sync Hub Direct Forward",
+		"key" : "SR000554",
+		"tags" : [
+			"RF Sharing",
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RNC 17 V8 Dimensioning Guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "AirScale 10MHz dual carrier on single radio configurations",
+		"key" : "LTE3617",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "BTS Mediator",
+		"key" : "SR001536",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "High Speed Cell FACH Enhanced",
+		"key" : "RAN2518",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "RACH Capacity Increase",
+		"key" : "RAN2902",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Parameter Categorization",
+		"key" : "LTE1486",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Synchronization Hub",
+		"key" : "LTE612",
+		"tags" : [
+			"Synchronization",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Synchronization from 2.048MHz signal",
+		"key" : "LTE711",
+		"tags" : [
+			"Synchronization",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "AoIP Monitoring - RTCP Support",
+		"key" : "RG302139",
+		"tags" : [
+			"RRM",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "A over IP",
+		"key" : "BSS21341",
+		"tags" : [
+			"RRM",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "AirScale 10 MHz single carrier BTS configurations",
+		"key" : "LTE3616",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale single carrier BTS configurations FDD",
+		"key" : "LTE2922",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AQPSK support with VAMOS-2 handsets",
+		"key" : "BSS21537",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "FHGB Flexi RRH 4TX 2100",
+		"key" : "LTE2147",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SBTS SW Upgrade/Update",
+		"key" : "SR000938",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "U-plane overload handling",
+		"key" : "LTE2023",
+		"tags" : [
+			"Admission Control",
+			"Mass Events",
+			"Performance",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "BTS Configurations optimized for distributed RRH deployment",
+		"key" : "LTE2172",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "L3 data collection for GSM PS",
+		"key" : "RG302253",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Failure tolerance for Total FEP Measurement",
+		"key" : "RG302412",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Flexi BTS and its Transport Parameter Categorization",
+		"key" : "RG302373",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Automated Certificate Management (for BTS)",
+		"key" : "BSS101909",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Outer Region Scheduling",
+		"key" : "LTE825",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Configurable sequence of BCCH carriers within GERAN frequency layer list for CSFB based on UE Context Release",
+		"key" : "LTE2314",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Group hopping for UL reference signal",
+		"key" : "LTE801",
+		"tags" : [
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "TDD downlink carrier aggregation - 60MHz",
+		"key" : "LTE1836",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "TDD downlink inter-band carrier aggregation - 40MHz",
+		"key" : "LTE1838",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "TDD Intra-band Dual Carrier Downlink Aggregation  for Flexi Zone Micro ",
+		"key" : "LTE1896",
+		"tags" : [
+			"Carrier Aggregation"
+		]
+	}
+	,
+	{
+		"title" : "UL SPS Scheduler",
+		"key" : "LTE1929",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Simulations",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Measurement Based Idle Mode Load Balancing",
+		"key" : "LTE2051",
+		"tags" : [
+			"Load Balancing",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "SIB reception with parallel measurement gaps",
+		"key" : "LTE2085",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "TDD SIB reception with parallel measurement gaps",
+		"key" : "LTE2120",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional Carrier Aggregation band combinations 3CC I ",
+		"key" : "LTE2167",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "L3 data collection for GSM PS",
+		"key" : "RG302253",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "BTS and its transport parameter categorization",
+		"key" : "RG302373",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Category for obsolete parameters",
+		"key" : "RG602489",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Centralized RAN CL16 Release",
+		"key" : "LTE2470",
+		"tags" : [
+			"Mass Events",
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{ "title" : "CSG Cell support", "key" : "LTE2465", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "ARP based QoS profiling",
+		"key" : "LTE2598",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{ "title" : "Flexible RLC in UL", "key" : "RAN1910", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "FWHM Flexi Zone Enhanced BTS 2600 (Band 7, High Band)",
+		"key" : "LTE2340",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Remote Self Test for FSMF",
+		"key" : "RAN2780",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "LTE TDD+FDD inter eNB CA basic BTS configurations",
+		"key" : "LTE2270",
+		"tags" : [
+			"Carrier Aggregation",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Network resiliency for mcRNC ",
+		"key" : "RAN3005",
+		"tags" : [
+			"Controller",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AQPSK support with  VAMOS-2 handsets",
+		"key" : "BSS21537",
+		"tags" : [
+			"Admission Control"
+		]
+	}
+	,
+	{
+		"title" : "GSM Based IoT Solution (EC-GSM IoT)",
+		"key" : "RG302534",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "AirScale System Module HW capacity activation license",
+		"key" : "LTE2517",
+		"tags" : [
+			"Dimensioning",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LTE1980 IPv4/IPv6 Concurrent IPsec Tunnels",
+		"key" : "LTE1980",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4/IPv6 Transport Stack",
+		"key" : "SR000589",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based SBTS Management Plane",
+		"key" : "SR001003",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.2 Transport QoS",
+		"key" : "SR000386",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "TDM fallback for GSM Application",
+		"key" : "SR000650",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Hybrid Synchronization",
+		"key" : "LTE942",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "Support for Carrier Aggregation in CRAN 16A",
+		"key" : "LTE2291",
+		"tags" : [
+			"Carrier Aggregation",
+			"Mass Events",
+			"Peak Rate",
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "SBTS Support for CPRI-A with LTE",
+		"key" : "SR001215",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "New SRAN SBTS cell sets on single FSMF",
+		"key" : "SR001581",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "TD-SCDMA redirect with multiple frequencies",
+		"key" : "LTE1664",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Guaranteed Voice calls in High Load",
+		"key" : "RAN3341",
+		"tags" : [
+			"Mass Events",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "GSM feature parity alignment up to GF16.5",
+		"key" : "SR001605",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "SBTS Web UI",
+		"key" : "SR000713",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "IPSec Emergency Bypass",
+		"key" : "SR000439",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Instant Network Element support",
+		"key" : "LTE2851",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Integrated GPS Sync for FlexiZone Micro BTS",
+		"key" : "LTE1629",
+		"tags" : [
+			"Synchronization",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "FWEB Flexi Zone Enhanced BTS 1800 (Band 3)",
+		"key" : "LTE2251",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Cell Bandwidth - 1.4 MHz",
+		"key" : "LTE117",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "RL35TD FSM3 Performance and Capacity",
+		"key" : "LTE1039",
+		"tags" : [
+			"HW & Site Solutions",
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{ "title" : "FDD Supercell", "key" : "LTE1542", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "FRGT Flexi 3-sector RF Module 2100",
+		"key" : "LTE985",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRHF Flexi RF Module 6TX 2600",
+		"key" : "LTE1563",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXDB Flexi RF Module 3TX 900",
+		"key" : "LTE1422",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRPB Flexi RF Module 6TX 700",
+		"key" : "LTE1395",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRPA Flexi RF Module 6TX 700",
+		"key" : "LTE1329",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FHEB Flexi RRH 2TX 1800",
+		"key" : "LTE1262",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRHD Flexi RRH 4TX 2600",
+		"key" : "LTE748",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Link Supervision with BFD",
+		"key" : "LTE592",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "FZND 2300 2TX 50+50W RRH",
+		"key" : "LTE634",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZHE  Flexi RFM 8TX BD41 8x15W",
+		"key" : "LTE1454",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi RF Module 2300 6TX FZNC",
+		"key" : "LTE999",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi RF Module 2600 8x10W FZHA",
+		"key" : "LTE544",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "PLMN ID Selected Mobility Profiles",
+		"key" : "LTE486",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Basic Ethernet Switching",
+		"key" : "LTE1857",
+		"tags" : [
+			"Small Cells",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Legacy TRS feature porting for FlexiZone Micro",
+		"key" : "LTE1622",
+		"tags" : [
+			"Small Cells",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Fast UL Link Adaptation",
+		"key" : "LTE1495",
+		"tags" : [
+			"Link Adaptation",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "FXCB Flexi RF Module 850",
+		"key" : "LTE1695",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FBBC Flexi Capacity Extension Sub-Module",
+		"key" : "LTE1444",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "C-plane Overload Handling",
+		"key" : "LTE1047",
+		"tags" : [
+			"Admission Control",
+			"Mass Events",
+			"Performance",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Carrier aggregation for multi-carrier eNodeBs",
+		"key" : "LTE1562",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "ANR Inter-RAT GERAN Trial Guideline (starter kit)",
+		"key" : "LTE784",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "IRC for 4 RX Paths",
+		"key" : "LTE980",
+		"tags" : [
+			"HW & Site Solutions",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "DL Adaptive Closed Loop MIMO (4x2)",
+		"key" : "LTE568",
+		"tags" : [
+			"Downlink Radio Transmission"
+		]
+	}
+	,
+	{
+		"title" : "Intra eNB UL CoMP (2RX)",
+		"key" : "LTE1402",
+		"tags" : [
+			"Peak Rate",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "UL Channel Aware Scheduler",
+		"key" : "LTE46",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "IRC for 4 RX paths",
+		"key" : "LTE980",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Downlink Carrier Aggregation",
+		"key" : "LTE1089",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Call setup principles in eNb",
+		"key" : "",
+		"tags" : [
+			"Performance",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "PM counter delta RL70/RL55 (Performance Management Summary of all PM counter changes introduced in the RL70 and RL55TD)",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Dedicated mobility thresholds for SRVCC",
+		"key" : "LTE2112",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Advanced HSUPA Time Division Scheduling",
+		"key" : "RAN3043",
+		"tags" : [
+			"Peak Rate",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "LTE-UTRAN Load Balancing ",
+		"key" : "LTE1357",
+		"tags" : [
+			"Load Balancing",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "WCDMA-LTE Load Balancing ",
+		"key" : "RAN2892",
+		"tags" : [
+			"Load Balancing",
+			"Mass Events",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Flexi RRH 4T4R 1900 (FHFB)",
+		"key" : "RAN3103",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "CSFB with RIM",
+		"key" : "RAN3086",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "FRBE Flexi RRH 4-Pipe 750&720T 160W",
+		"key" : "LTE2143",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Transport Admission Control in LTE BTS",
+		"key" : "LTE144",
+		"tags" : [
+			"Admission Control",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Cell radius max 100 km",
+		"key" : "LTE180",
+		"tags" : [
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Multidevice support in VoLTE system",
+		"key" : "FN4257",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{ "title" : "RSRQ based A5", "key" : "LTE2551", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "NetAct Topology View to Network Resiliency of RNC",
+		"key" : "RAN3226",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "CM Parameter streamlining",
+		"key" : "RAN3277",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Online management of Antenna Line Devices",
+		"key" : "RAN3058",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "WCDMA OMS connectivity change for Gen9 HW",
+		"key" : "RAN3396",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "INES Support for WCDMA 17",
+		"key" : "RAN3315",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "mcRNC System diagnostic report",
+		"key" : "RAN3157",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "RNC Troubleshooting Data Management by NetAct",
+		"key" : "RAN3156",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "BTS Embedded Power Meter for Energy Efficiency Monitoring",
+		"key" : "RAN3248",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Iu-PS and Iu-CS MOCN counters for WCDMA",
+		"key" : "RAN2777",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "CMST feature family RG30 EP1",
+		"key" : "RG301980",
+		"tags" : [
+			"HW & Site Solutions",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Node Level Performance Measurements for CMST Cell",
+		"key" : "RG301979",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "OSC Remultiplexing",
+		"key" : "RG301837",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Uplink min RxLev based Access",
+		"key" : "RG301726",
+		"tags" : [
+			"Admission Control",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Update on RU50EP1 and RU50 Baseband dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "How to handle Mass Events in WCDMA",
+		"key" : "",
+		"tags" : [
+			"Mass Events",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "1st Step How to handle Smartphone traffic in WCDMA",
+		"key" : "",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "2nd Step How to handle Smartphone traffic in WCDMA",
+		"key" : "",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Intra-frequency Load Balancing",
+		"key" : "LTE1140",
+		"tags" : [
+			"Load Balancing",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "FWFA Flexi Zone BTS 1900 (Band 25)",
+		"key" : "LTE2055",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FWHH Flexi Zone Indoor Pico BTS 2600 (Band 7) with Integrated WiFi",
+		"key" : "LTE2136",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FWIC Flexi Zone Indoor Pico BTS AWS (Band 4)",
+		"key" : "LTE2212",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FWFB Flexi Zone Indoor Pico BTS PCS (Band 2)",
+		"key" : "LTE2213",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FWHO Flexi Zone BTS 2600 (Band 7, Low Band)",
+		"key" : "LTE2338",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FWHN Flexi Zone BTS 2600 (Band 7, High Band)",
+		"key" : "LTE2339",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Directional Antenna for 7.2L Flexi Zone Micro",
+		"key" : "LTE2118",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Extended OBSAI site configuration",
+		"key" : "LTE1636",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "RL55 Site configuration CPRI",
+		"key" : "LTE1778",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "FWHM Flexi Zone Enhanced BTS 2600 (Band 7, High Band)",
+		"key" : "LTE2340",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FWHN Flexi Zone BTS 2600 (Band 7, High Band)",
+		"key" : "LTE2339",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "RL55 Site configuration CPRI",
+		"key" : "LTE2118",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Mobility Robustness Optimisation (MRO) Ping Pong",
+		"key" : "LTE1768",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "HSPA+ over Iur",
+		"key" : "RAN2221",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "Up to 12 optical RF ports for high capacity BTS configurations",
+		"key" : "LTE1745",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Downlink Carrier Aggregation 3CC 40MHz",
+		"key" : "LTE1803",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "E-RAB Modification - GBR",
+		"key" : "LTE1321",
+		"tags" : [
+			"RRM",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Source based routing in BTS",
+		"key" : "LTE1244",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "OSC Support for AMR-FR",
+		"key" : "BSS21534",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "FlexiNS: Voice Call Continuity from LTE to 2G/3G Access",
+		"key" : "",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "FlexiNS: S3 Based Inter System Mobility and Handover",
+		"key" : "",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Application Aware RAN",
+		"key" : "RAN2509",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Interference Cancellation Receiver (starter kit)",
+		"key" : "RAN1308",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Dual-Band HSDPA 42Mbps",
+		"key" : "RAN2179",
+		"tags" : [
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "TL16A Site Configurations with FSMr3",
+		"key" : "LTE2586",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale Compact 8Tx8Rx Site Configurations",
+		"key" : "LTE3044",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Mobility Robustness Optimization Inter-RAT UTRAN",
+		"key" : "LTE2539",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Mobility Robustness Monitoring Inter-RAT UTRAN ",
+		"key" : "LTE1749",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "PM counter delta FL16A/TL16A (Performance Management Summary of all PM counter changes introduced in the FL16A and TL16A)",
+		"key" : "",
+		"tags" : [
+			"Performance",
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "Controlled UL Packet Segmentation",
+		"key" : "LTE571",
+		"tags" : [
+			"Link Adaptation",
+			"Scheduler",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "S1 Handover towards Hybrid cells",
+		"key" : "LTE2466",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "SRVCC trigger enhancement",
+		"key" : "LTE3290",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Additional PRS Subframe Configurations",
+		"key" : "LTE3264",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Intra-freq load balancing extension",
+		"key" : "LTE2210",
+		"tags" : [
+			"Load Balancing",
+			"RRM",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Multiple emergency areas per cell",
+		"key" : "LTE1755",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "LTE2788 Stateful reflector for TWAMP",
+		"key" : "LTE2788",
+		"tags" : [
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SRVCC due to Admission Control rejection",
+		"key" : "LTE2832",
+		"tags" : [
+			"Admission Control",
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "eICIC - macro",
+		"key" : "LTE1113",
+		"tags" : [
+			"RRM",
+			"Simulations",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "eICIC - micro",
+		"key" : "LTE1496",
+		"tags" : [
+			"RRM",
+			"Simulations",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "eICIC enhancements - micro",
+		"key" : "LTE2208",
+		"tags" : [
+			"RRM",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "eICIC enhancements - macro",
+		"key" : "LTE2209",
+		"tags" : [
+			"RRM",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FDD-TDD DL Carrier Aggregation 4CC (2F+2T)",
+		"key" : "LTE2623",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RRH 2T2R B11 120W FHKA",
+		"key" : "LTE3184",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UHFE AA B25 A + 700/900 P CPRI-A Active Antenna 2-Pipe 1900 80W",
+		"key" : "LTE3308",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LTE System Information Broadcast",
+		"key" : "",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Harmonized Object Model for SRAN",
+		"key" : "SR001541",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "FRME Flexi RF Module 6-Pipe 800 240W",
+		"key" : "LTE1725",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Energy Efficiency Shut Down Mode with RF Sharing",
+		"key" : "RG602496",
+		"tags" : [
+			"Power Consumption",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Energy Efficiency Shut Down Mode with RF Sharing",
+		"key" : "LTE2507",
+		"tags" : [
+			"Power Consumption",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Inter-eNB Carrier Aggregation for two Macro eNBs",
+		"key" : "LTE2305",
+		"tags" : [
+			"Carrier Aggregation",
+			"HW & Site Solutions",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "TM9 with 8TX MU-MIMO and Up to 2 Layers Overall",
+		"key" : "LTE1787",
+		"tags" : [
+			"Beamforming"
+		]
+	}
+	,
+	{
+		"title" : "VoLTE Call Steering Enhancements",
+		"key" : "LTE2388",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "PCI Assignment Optimization for HetNet",
+		"key" : "LTE1822",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "TL15A Site Configurations",
+		"key" : "LTE2047",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "DL MMO 4x4 with TM4",
+		"key" : "LTE569",
+		"tags" : [
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Inter eNB RF sharing",
+		"key" : "LTE1829",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "NSN vendor certificates for ESMB and ESMC",
+		"key" : "BSS101956",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Category for Obsolete parameters",
+		"key" : "RG602489",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Tracing with BTS Manager",
+		"key" : "BSS101711",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "BSC CS Counter data for Traffica",
+		"key" : "RG302360",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "PLMNID and SPID selected Mobility Profiles",
+		"key" : "LTE1905",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Network requested UE capabilities",
+		"key" : "LTE2324",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Downlink Carrier Aggregation 3CC 60 MHz",
+		"key" : "LTE1804",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Additional carrier aggregation band combinations III",
+		"key" : "LTE2200",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional carrier aggregation band combinations II",
+		"key" : "LTE2168",
+		"tags" : [
+			"Carrier Aggregation"
+		]
+	}
+	,
+	{
+		"title" : "Tracing with BTS Manager",
+		"key" : "BSS101711",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "BSC CS counter data for Traffica",
+		"key" : "RG302360",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Failure tolerance for total FEP Measurement",
+		"key" : "RG302412",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Automated certificate management for BTS",
+		"key" : "BSS101909",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "SBTS PAoTDM for GSM dedicated mode with mcBSC",
+		"key" : "RG602513",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Improved Log Collection of GSM/EDGE BTS",
+		"key" : "RG302161",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Integrated CS Data support in mcBSC",
+		"key" : "RG302188",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{
+		"title" : "IPSec Emergency Bypass",
+		"key" : "SR000439",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Backup IPsec Tunnel",
+		"key" : "SR000600",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPsec for BTS",
+		"key" : "SR000356",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "QCI1 specific RLF and re-establishment control",
+		"key" : "LTE1569",
+		"tags" : [
+			"RRM",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "TDD Intra-band Dual Carrier operation within an FZM",
+		"key" : "LTE1850",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "SBTS Fault Management",
+		"key" : "SR000920",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "S1 eNodeB Configuration Update",
+		"key" : "LTE915",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "PM counter delta FL15A and TL15A (Performance Management Summary of all PM counter changes introduced in the FL15A and TL15A)",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "SRVCC for network deployments not supporting PS HO",
+		"key" : "LTE2162",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Liquid Cell",
+		"key" : "LTE1709",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "IMS Emergency Call",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Video over LTE",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "VoLTE Performance",
+		"key" : "",
+		"tags" : [
+			"Performance",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Voice Call Continuity",
+		"key" : "",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Multi-cluster scheduling",
+		"key" : "LTE1059",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Downlink adaptive closed loop SU MIMO (4x4)",
+		"key" : "LTE1987",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "SGW relocation with X2 connection",
+		"key" : "LTE439",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "PM counter delta FL16/TL16 (Performance Management Summary of all PM counter changes introduced in the FL16 and TL16)",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Centralized RAN Supported Configurations CL16 Release",
+		"key" : "LTE2901",
+		"tags" : [
+			"HW & Site Solutions",
+			"Mass Events"
+		]
+	}
+	,
+	{
+		"title" : "Load triggered Idle Mode Load Balancing",
+		"key" : "LTE2050",
+		"tags" : [
+			"Load Balancing",
+			"Mass Events",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "PCell Swap",
+		"key" : "LTE2275",
+		"tags" : [
+			"Carrier Aggregation"
+		]
+	}
+	,
+	{
+		"title" : "Measurement Based Idle Mode Load Balancing",
+		"key" : "LTE2051",
+		"tags" : [
+			"Load Balancing",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Dedicated Idle Mode Mobility Priorities",
+		"key" : "LTE2166",
+		"tags" : [
+			"Load Balancing",
+			"Mobility & Multi-layer Optimization",
+			"Network Sharing",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "S1 based handover towards CSG cells",
+		"key" : "LTE2351",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "VoLTE Uplink Coverage Boosting",
+		"key" : "LTE2098",
+		"tags" : [
+			"Uplink Radio Reception",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "LTE MBMS",
+		"key" : "LTE1117",
+		"tags" : [
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Access Class Barring (ACB) skip",
+		"key" : "LTE2505",
+		"tags" : [
+			"Admission Control",
+			"Load Balancing",
+			"Mass Events",
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "SIB2/SIB8 Automatic AC Barring",
+		"key" : "LTE1788",
+		"tags" : [
+			"Admission Control",
+			"Load Balancing",
+			"Mass Events",
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "SIB8 AC Barring for 1xRTT",
+		"key" : "LTE1635",
+		"tags" : [
+			"Admission Control",
+			"Load Balancing",
+			"Mass Events",
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "Load based power saving with tx path switching off",
+		"key" : "LTE1203",
+		"tags" : [
+			"Power Consumption"
+		]
+	}
+	,
+	{
+		"title" : "CL10/EP1: Centralized RAN 5-20 MHz",
+		"key" : "LTE1724",
+		"tags" : [
+			"HW & Site Solutions",
+			"Mass Events",
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Centralized RAN",
+		"key" : "LTE1900",
+		"tags" : [
+			"HW & Site Solutions",
+			"Mass Events",
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "FDD UL Carrier Aggregation 2CC",
+		"key" : "LTE1092",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "AirScale System Module in FDD LTE (FL16A)",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LNCEL LNBTS refactoring",
+		"key" : "LTE2828",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "3G Baseband Dimensioning step by step step 1",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "3G Baseband Dimensioning step by step step 2",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "3G Baseband Dimensioning step by step step 3",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "3G Baseband Dimensioning step by step step 4",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "FRHE Flexi RRH 4TX 2600",
+		"key" : "LTE1662",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FHDA Flexi RRH 2TX 900",
+		"key" : "LTE2040",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FWIB Flexi Zone BTS 1700/2100 (Band 4)",
+		"key" : "LTE1727",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Open loop UL power control and DL power setting",
+		"key" : "LTE27",
+		"tags" : [
+			"Power Control",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "MIMO MRC IRC and BF solutions",
+		"key" : "LTE979",
+		"tags" : [
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "IRC for 2 RX Paths",
+		"key" : "LTE979",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Usage based PDCCH adaptation",
+		"key" : "LTE616",
+		"tags" : [
+			"Link Adaptation",
+			"RRM"
+		]
+	}
+	,
+	{ "title" : "Fast Dormancy", "key" : "RAN2136", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "Frequency Domain Equalizer",
+		"key" : "RAN1702",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "HSPA over Iur with Anchoring",
+		"key" : "RAN2607",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "IP over ML-PPP on E1/T1 Interfaces",
+		"key" : "RAN1878",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Abis Delay Measurement (TDM and PWE3)",
+		"key" : "BSS21271",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "3-RAT RF-Sharing 2G-3G & 2G-4G",
+		"key" : "RG302084",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "FWHG Flexi Zone Indoor Pico BTS 2600 (Band 7)",
+		"key" : "LTE2002",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "IRC for 2 RX Paths",
+		"key" : "LTE979",
+		"tags" : [
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Voice Call Priorization during High Traffic Load",
+		"key" : "RAN2954",
+		"tags" : [
+			"Mass Events"
+		]
+	}
+	,
+	{
+		"title" : "Multi-Operator BSS (MOBSS)",
+		"key" : "BSS21213",
+		"tags" : [
+			"Controller",
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "FlexiNG: Diameter routing management",
+		"key" : "",
+		"tags" : [
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "FDD vs TDD performance comparison",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Carrier aggregation",
+		"key" : "",
+		"tags" : [
+			"Carrier Aggregation",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "SMART simulations on spectrum carving and OSC deployment at GSM900 Based on Troyes market",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Extend maximum number of X2 links",
+		"key" : "LTE1708",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Measurement based redirect to UTRAN",
+		"key" : "LTE1073",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "LTE Interworking ",
+		"key" : "RAN2067",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Inter-eNB Inter-Frequency Load Balancing",
+		"key" : "LTE1170",
+		"tags" : [
+			"Load Balancing",
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Synchronization Hub",
+		"key" : "LTE612",
+		"tags" : [
+			"Small Cells",
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "Nokia Telco Cloud Management Solutions",
+		"key" : "",
+		"tags" : [
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced CS Fallback to CDMA/1xRTT",
+		"key" : "LTE1441",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "mcRNC Signaling Capacity License",
+		"key" : "RAN3057",
+		"tags" : [
+			"Controller",
+			"Dimensioning",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "GSM 16 Release Upgrade License",
+		"key" : "RG302362",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "3-RAT RF Sharing 2G-3G & 2G-4G",
+		"key" : "LTE1556",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LTE-GSM RF sharing with full FBBC support",
+		"key" : "LTE2079",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "PCU capacity evolution for Multicontroller BSC",
+		"key" : "BSS101428",
+		"tags" : [
+			"Controller",
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Dedicated Priorities",
+		"key" : "RAN3079",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "UE history for WCDMA to LTE mobility",
+		"key" : "RAN3291",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "VoLTE Roaming",
+		"key" : "",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "WebRTC end-to-end support in MSS IMS / VoLTE system",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Synchronous Ethernet Generation",
+		"key" : "LTE563",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "First step towards next generation telco - (r)evolution with Virtualized RAN",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "FRIJ AirScale RRH 4T4R B66 160W",
+		"key" : "LTE2516",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Outer loop link adaptation for PDCCH",
+		"key" : "LTE1035",
+		"tags" : [
+			"Link Adaptation"
+		]
+	}
+	,
+	{
+		"title" : "RNC2600 Capacity Increase for Smartphones",
+		"key" : "RAN2198",
+		"tags" : [
+			"Controller",
+			"HW & Site Solutions",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "mcRNC Capacity management and monitoring",
+		"key" : "",
+		"tags" : [
+			"Controller",
+			"Dimensioning",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Open MSS Cloud 16 dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Support of High Power UE",
+		"key" : "LTE2583",
+		"tags" : [
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Inter eNode B TDD Carrier Aggregation",
+		"key" : "LTE2244",
+		"tags" : [
+			"Carrier Aggregation",
+			"HW & Site Solutions",
+			"Peak Rate",
+			"RRM",
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "Supplemental DL Carrier",
+		"key" : "LTE2149",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional Carrier Aggregation band combinations 2CC - IV",
+		"key" : "LTE2527",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Extended DRX settings",
+		"key" : "LTE473",
+		"tags" : [
+			"Power Consumption",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Smart DRX",
+		"key" : "LTE585",
+		"tags" : [
+			"Power Consumption",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Fast uplink link adaptation",
+		"key" : "LTE1495",
+		"tags" : [
+			"Link Adaptation",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Optimization of PRACH/RACH power",
+		"key" : "LTE1235",
+		"tags" : [
+			"Operability",
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "Inter-Frequency RSTD Measurement Support",
+		"key" : "LTE1638",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Cell Id Location Service",
+		"key" : "LTE951",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Commercial Mobile Alert System",
+		"key" : "LTE494",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Extended RLF Handling",
+		"key" : "LTE2206",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Supplemental DL Carrier extensions",
+		"key" : "LTE2557",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "UHCB RRH2x60-850 CPRI-A RRH 2-Pipe 850 80W",
+		"key" : "LTE3309",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UHIG 9768 cMRO B4/66 5W CPRI-A MRO RRH 2-Pipe 1700/2100",
+		"key" : "LTE3410",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "IPsec for BTS",
+		"key" : "SR000356",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based Packet Abis Transport",
+		"key" : "SR000397",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based Iub",
+		"key" : "SR000396",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SBTS Common Transport",
+		"key" : "SR000954",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.10: Synchronization",
+		"key" : "",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "MME Selection based upon only MMEC and PLMN ID",
+		"key" : "LTE2390",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "LTE MBMS Service Continuity",
+		"key" : "LTE1834",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Dimensioning guideline IMS 16.5 and 3GPP HSS 16.5 Delta",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "SR000411 Transport Separation for LTE RAN Sharing",
+		"key" : "SR000411",
+		"tags" : [
+			"Network Sharing",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SW License Management in LTE",
+		"key" : "LTE2593",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "GSM17 new feature implementation for SBTS",
+		"key" : "SR001265",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "WCDMA17 new feature implementation for SBTS17",
+		"key" : "SR001171",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "SBTS Manual Commissioning and system setup",
+		"key" : "SR000942",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Parameter Categorization",
+		"key" : "RG302055",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "CA Steering Intra-cell Handover",
+		"key" : "LTE2838",
+		"tags" : [
+			"Carrier Aggregation",
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "FRMC Flexi RF Module 6TX 800",
+		"key" : "LTE1067",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRHC Flexi RF Module 6TX 2600",
+		"key" : "LTE1066",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXDA Flexi RF Module 3TX 900",
+		"key" : "LTE88",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Cell-specific Neighbor Relation and PCI Handling",
+		"key" : "LTE1383",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "FZNL 2300 1TX 20W RRH (dual mode)",
+		"key" : "LTE1380",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZNK 2300 1TX 50W  RRH (dual mode)",
+		"key" : "LTE1135",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZFA 1900 8TX 12W RRH (dual mode)",
+		"key" : "LTE1371",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZNN Flexi RRH 1TX 2300 50W (dual mode)",
+		"key" : "LTE1529",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZFF Flexi RRH 8TX 1900 8x20W (dual mode)",
+		"key" : "LTE1528",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FlexiZone Micro BTS GPON/EPON ONT SFP",
+		"key" : "LTE1686",
+		"tags" : [
+			"Small Cells",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "8 EPS Bearers per UE",
+		"key" : "LTE520",
+		"tags" : [
+			"Admission Control",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "PUSCH Masking",
+		"key" : "LTE944",
+		"tags" : [
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Multiradio System Module extended LTE configurations with FBBC",
+		"key" : "LTE1644",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Measurement based Transport Admission Control",
+		"key" : "LTE1401",
+		"tags" : [
+			"Admission Control",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "LTE GSM/WCDMA RF-sharing for Band 2 (1900MHz)",
+		"key" : "LTE1952",
+		"tags" : [
+			"HW & Site Solutions",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Site level RF Sharing between WCDMA-GSM-LTE",
+		"key" : "LTE1556",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Neighbour Relation Robustness",
+		"key" : "LTE1685",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "TDD Special Subframe Configuration 3 and 4",
+		"key" : "LTE1388",
+		"tags" : [
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "TDD Special Subframe Configuration 9",
+		"key" : "LTE1467",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Uplink Intra eNodeB CoMP 4RX",
+		"key" : "LTE1691",
+		"tags" : [
+			"Simulations",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "User Layer TCP MSS Clamping",
+		"key" : "LTE1240",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "FHEF Flexi RRH 2TX 1800 Band 3 with Filter",
+		"key" : "LTE2041",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FHFB Flexi RRH 4TX 1900",
+		"key" : "LTE1149",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXCE Flexi RF Module 840",
+		"key" : "LTE2165",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXXX Flexi RAS 4TX 1900a/600p",
+		"key" : "LTE1977",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Downlink Carrier Aggregation 40 MHz",
+		"key" : "LTE1332",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Channel Aware Scheduler Trial Guideline (starter kit)",
+		"key" : "LTE46",
+		"tags" : [
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Downlink Carrier Aggregation (starter kit)",
+		"key" : "LTE1089",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "OSC Support for FlexiMultiradio",
+		"key" : "BSS21534",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{ "title" : "Diameter protocol", "key" : "", "tags" : [ "Telco Cloud" ] }
+	,
+	{
+		"title" : "Iub Transport Solution for Network Sharing",
+		"key" : "RAN2647",
+		"tags" : [
+			"Network Sharing",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Packet Switched Core Network Sharing",
+		"key" : "",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "RL60 LTE system capacity monitoring and congestion prevention guideline",
+		"key" : "",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Sleeping cell detection for LTE",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "CMCC call drop investigation",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "LTE Performance NEI Complex Concludes the knowledge about PM measurements counters KPIs or PM architecture",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Dedicated VoLTE IF target frequency list",
+		"key" : "LTE1942",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Uplink coordinated multipoint",
+		"key" : "RAN3044",
+		"tags" : [
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Remote RNC SW upgrade via NetAct",
+		"key" : "RAN2319",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "S1 based handover towards home eNB",
+		"key" : "LTE1723",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Interference Control in HetNet",
+		"key" : "RAN3270",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Classical LTE-GSM RF-sharing with FXEF Flexi RFM 3-pipe 1800 240W",
+		"key" : "LTE2911",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "FZQE: Flexi RRH 8-pipe 3500 160W E",
+		"key" : "LTE2385",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "TD-LTE16 Site Configurations",
+		"key" : "LTE2293",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "CA Steering Intra-cell Handover",
+		"key" : "LTE2838",
+		"tags" : [
+			"Carrier Aggregation",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "FRSA Flexi RFM 6-pipe 1450 360W",
+		"key" : "LTE2650",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRCJ Flexi RRH 2T4R 873 120W",
+		"key" : "LTE2679",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FHEL AirScale RRH 2T2R B3 120W",
+		"key" : "LTE2680",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRPD Flexi RFM 6-pipe 700 240W",
+		"key" : "LTE3027",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXEF Flexi RFM 3-pipe 1800 240W",
+		"key" : "LTE2767",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based L2'-L2'' Fronthaul",
+		"key" : "RC0111",
+		"tags" : [
+			"Telco Cloud",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Virtual Ethernet interface for Virtual machine",
+		"key" : "RC0099",
+		"tags" : [
+			"Telco Cloud",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Usage based PDCCH adaptation",
+		"key" : "LTE616",
+		"tags" : [
+			"Link Adaptation"
+		]
+	}
+	,
+	{
+		"title" : "FRGX Flexi RFM 3-pipe 2100 240W",
+		"key" : "LTE2769",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "ARP based partial admission control for handover",
+		"key" : "LTE2559",
+		"tags" : [
+			"Admission Control"
+		]
+	}
+	,
+	{
+		"title" : "IPv6 for S-plane",
+		"key" : "LTE1981",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv6 for management plane",
+		"key" : "LTE955",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv6 Support for M1 & M3 Interfaces",
+		"key" : "LTE2807",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Dual Stack IPv4/IPv6 for S1/X2",
+		"key" : "LTE2299",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "GPS and UTC time information broadcast support (SIB16)",
+		"key" : "LTE3056",
+		"tags" : [
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Support for multiple MBSFN and Synchronization Areas",
+		"key" : "LTE3199",
+		"tags" : [
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Support for configurable eMBMS SYNC protocol",
+		"key" : "LTE3279",
+		"tags" : [
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "UL Interference offsets",
+		"key" : "LTE3230",
+		"tags" : [
+			"Power Control",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "RSRQ based B2",
+		"key" : "LTE2572",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Active Queue Management ",
+		"key" : "LTE1680",
+		"tags" : [
+			"QoS",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Open TAS Cloud 16.5 Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Dual Transmission Mode 1 operation",
+		"key" : "LTE2115",
+		"tags" : [
+			"Downlink Radio Transmission"
+		]
+	}
+	,
+	{
+		"title" : "Reference signal power de-boosting",
+		"key" : "LTE1894",
+		"tags" : [
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "ANR InterRAT 1xRTT - O&M assisted",
+		"key" : "LTE2562",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "LTE Broadcast (eMBMS) Core network aspects",
+		"key" : "LTE1117",
+		"tags" : [
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "mcRNC release 2 HW support",
+		"key" : "RAN2240",
+		"tags" : [
+			"Controller",
+			"HW & Site Solutions",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "mcRNC refresher session - WCDMA16",
+		"key" : "",
+		"tags" : [
+			"Controller",
+			"Dimensioning",
+			"HW & Site Solutions",
+			"Load Balancing",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "LTE Scheduler",
+		"key" : "",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "RNC dimensioning guideline",
+		"key" : "",
+		"tags" : [
+			"Controller",
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Open TAS Cloud 16.2 dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Data Session Profiling",
+		"key" : "LTE1819",
+		"tags" : [
+			"Mass Events",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "TDD UL Carrier Aggregation 2CC",
+		"key" : "LTE2105",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "TDD UL Carrier Aggregation extensions",
+		"key" : "LTE2416",
+		"tags" : [
+			"Carrier Aggregation",
+			"Load Balancing",
+			"Peak Rate",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Advanced SCell measurement handling",
+		"key" : "LTE1541",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Zone FDD BTS Solutions FLF16",
+		"key" : "LTE2729",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Zone Controller (FZC) NEI Complex",
+		"key" : "LTE1996",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Uplink Control Information only transmission",
+		"key" : "LTE2630",
+		"tags" : [
+			"QoS",
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Step towards Next Gen Telco: 5G introduction",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"HW & Site Solutions",
+			"Performance",
+			"RRM",
+			"Simulations",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Centralized RAN TD-LTE with 1xFSIH ",
+		"key" : "LTE2662",
+		"tags" : [
+			"Mass Events",
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "FDD-TDD DL Carrier Aggregation 3CC (2F+T)",
+		"key" : "LTE2337",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "Centralized RAN 16A",
+		"key" : "LTE2564",
+		"tags" : [
+			"Mass Events",
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "TD-LTE 16 Uplink Intra eNodeB CoMP 4 RX with Softbit Combination",
+		"key" : "LTE2104",
+		"tags" : [
+			"Performance",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "UHEE RRH2x60-18-4R CPRI-A RRH 2-Pipe 1800 120W",
+		"key" : "LTE3108",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UHHB B7 RRH2x40-4R-A CPRI-A RRH 2-Pipe 2600 80W",
+		"key" : "LTE3304",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UHIE B66a RRH4X45 CPRI-A RRH 4-Pipe 1.7/2.1 160W",
+		"key" : "LTE3307",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UHFF RRH2x60-1900 CPRI-A RRH 2-Pipe 1900 120W",
+		"key" : "LTE3350",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UHIF 9768 MRO B4 1W CPRI-A MRO RRH 2-Pipe 1700/2100",
+		"key" : "LTE3409",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Backup IPsec Tunnel",
+		"key" : "SR000600",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Multiple VLAN interfaces",
+		"key" : "SR000382",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based S1/X2",
+		"key" : "SR000395",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Flexible Sync Input Priority",
+		"key" : "LTE2184",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "SBTS support for 36 TRX",
+		"key" : "SR001017",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SBTS RF sharing with OBSAI RF unit chaining",
+		"key" : "SR001208",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Paging (+Tracking area dimensioning guideline)",
+		"key" : "LTE49",
+		"tags" : [
+			"Dimensioning",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "SRAN17 Site Solution RF Modules",
+		"key" : "SR001394",
+		"tags" : [
+			"HW & Site Solutions",
+			"RF Sharing",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "eNodeB Limitation Actions for License Management in LTE",
+		"key" : "LTE2621",
+		"tags" : [
+			"Admission Control",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "NT HLR17, One-EIR17 and One-MNP17 dimensioning with ACORD and SDMDimTool",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "LTE in unlicensed band (LTE-U) (LTE2424, LTE3092, LTE3093 and LTE2675)",
+		"key" : "LTE2675",
+		"tags" : [
+			"Carrier Aggregation",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Adaptation of License Management to new O&M architecture",
+		"key" : "LTE3349",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RNC license management",
+		"key" : "RC0148",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "DFCA and GSM energy efficient coverage support in SBTS",
+		"key" : "SR001114",
+		"tags" : [
+			"Power Consumption",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "WCDMA Single Cell Solution in SBTS",
+		"key" : "SR001372",
+		"tags" : [
+			"HW & Site Solutions",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "LTE17 features implementation in SRAN17",
+		"key" : "SR001259",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "LTE feature parity alignment up to FL16A",
+		"key" : "SR001578",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "SBTS Composer UI",
+		"key" : "SR001185",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Parameter Categorization",
+		"key" : "RAN3004",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "GPS synchronization",
+		"key" : "LTE80",
+		"tags" : [
+			"Synchronization",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Timing over Packet",
+		"key" : "LTE134",
+		"tags" : [
+			"Synchronization",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Synchronization from PDH interface",
+		"key" : "LTE710",
+		"tags" : [
+			"Synchronization",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Synchronous Ethernet",
+		"key" : "LTE713",
+		"tags" : [
+			"Synchronization",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "LTE extended configurations up to 6 frequency bands",
+		"key" : "LTE1746",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale FDD multicarrier configurations on single radio",
+		"key" : "LTE2723",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "OSC support for VAMOS handsets",
+		"key" : "BSS21313",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Frequency bands priority change in MFBI",
+		"key" : "LTE2754",
+		"tags" : [
+			"Carrier Aggregation",
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "FWGI Flexi Zone Indoor Pico BTS 2100 (Band 1)",
+		"key" : "LTE2229",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FWEC Flexi Zone Indoor Pico BTS 1800 (Band 3)",
+		"key" : "LTE2228",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "SRAN 16 Introduction to Common O&M Architecture",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "RSRQ Based Redirection",
+		"key" : "LTE1407",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Open Access Home eNodeB mobility",
+		"key" : "LTE1442",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Flexible Uplink Bandwidth",
+		"key" : "LTE786",
+		"tags" : [
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Automatic Neighbor Relation (ANR) Inter-RAT GERAN",
+		"key" : "LTE784",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "TDD-FDD Handover",
+		"key" : "LTE1060",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Cell Bandwidth - 3 MHz",
+		"key" : "LTE116",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Multiradio System Module extended LTE configurations",
+		"key" : "LTE1247",
+		"tags" : [
+			"HW & Site Solutions",
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "FBBA Flexi Capacity Extension Sub-Module",
+		"key" : "LTE972",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRGS Flexi 3-sector RF Module 2100",
+		"key" : "LTE986",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LTE Dual carrier operation within one RF band",
+		"key" : "LTE471",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZFE Flexi RRH 2TX 1900 30W (dual mode)",
+		"key" : "LTE1494",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZFD 8TX 1900 8x16W RRH (dual mode)",
+		"key" : "LTE1017",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi RRH 4TX 2300 FZNI",
+		"key" : "LTE1202",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Zone Micro BTS GPON/EPON ONT SFP",
+		"key" : "LTE1686",
+		"tags" : [
+			"Small Cells",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Legacy TRS feature porting for FlexiZone Micro",
+		"key" : "LTE1622",
+		"tags" : [
+			"Small Cells",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Timing over Packet with phase synchronization",
+		"key" : "LTE891",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "Multiple Frequency Band Indicator",
+		"key" : "LTE1534",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Multiradio System Module full LTE configurations",
+		"key" : "LTE1508",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXFC Flexi RF Module 3TX 1900",
+		"key" : "LTE1440",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRPK Flexi RRH 2TX 700",
+		"key" : "LTE1615",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXFB Flexi 3-sector RF Module 1900",
+		"key" : "LTE1665",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Interference aware UL Power Control",
+		"key" : "LTE1336",
+		"tags" : [
+			"Power Control",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "RSRQ based Mobility",
+		"key" : "LTE1198",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Inter RAT handover to eHRPD/3GPP2",
+		"key" : "LTE60",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Operator Specific GBR QCIs",
+		"key" : "LTE1231",
+		"tags" : [
+			"Admission Control",
+			"QoS",
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Downlink Interference Shaping",
+		"key" : "LTE1800",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "LTE-GSM and LTE-WCDMA RF sharing for dual band and 4Rx configurations",
+		"key" : "LTE1895",
+		"tags" : [
+			"HW & Site Solutions",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Timing over Packet Resilience",
+		"key" : "LTE610",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "RLF Triggered Handover",
+		"key" : "LTE1617",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "FHGB Flexi RRH 4TX 2100",
+		"key" : "LTE2147",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXED Flexi RF Module 6TX 1800",
+		"key" : "LTE1719",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Up to 12 optical RF ports for high capacity BTS configurations",
+		"key" : "LTE1745",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Directional Antenna for 5L Flexi Zone Micro",
+		"key" : "LTE1885",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FWHA Flexi Zone BTS 2600 (Band 7)",
+		"key" : "LTE1682",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "FWGB Flexi Zone BTS 2100 (Band 1)",
+		"key" : "LTE1659",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Cell Trace with IMSI",
+		"key" : "LTE162",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "LPPa support for OTDOA",
+		"key" : "LTE1433",
+		"tags" : [
+			"Location Services",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Measurement Report Addition to Cell Trace",
+		"key" : "LTE1931",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Measurement Report Addition with PDCP KPI Counter Subset",
+		"key" : "LTE2054",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Nominal Bit Rate",
+		"key" : "LTE1042",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "RIP measurement Report Extension /  Support RIP Initiated",
+		"key" : "LTE1914",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "RL70 FSMr2 Capacity and Dimensioning",
+		"key" : "LTE1798",
+		"tags" : [
+			"Dimensioning",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "RL70 FSMr3 Capacity and Dimensioning",
+		"key" : "LTE1799",
+		"tags" : [
+			"Dimensioning",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Support CMCC Measurement Reporting requirements",
+		"key" : "LTE1501",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Support for Multi-antenna RET device",
+		"key" : "LTE1657",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "System Upgrade with Backward Compatibility",
+		"key" : "LTE1473",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "IPv6 for U/C-Plane",
+		"key" : "LTE125",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "DL power boosting for control channels",
+		"key" : "LTE430",
+		"tags" : [
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "SW support for RF sharing GSM-LTE",
+		"key" : "LTE447",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "SCTP multi-homing",
+		"key" : "LTE775",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Downlink adaptive closed loop MIMO for 2 antennas",
+		"key" : "LTE703",
+		"tags" : [
+			"Downlink Radio Transmission"
+		]
+	}
+	,
+	{
+		"title" : "MME capacity value change",
+		"key" : "LTE450",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SCTP multi-homing (MME)",
+		"key" : "LTE775",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{ "title" : "S1 Flex", "key" : "LTE2", "tags" : [ "Transport" ] }
+	,
+	{
+		"title" : "FHCA Flexi RRH 2TX 850",
+		"key" : "LTE91",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRGQ Flexi RRH 2TX 2100",
+		"key" : "LTE452",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRBB Flexi 3-sector RF Module 760",
+		"key" : "LTE921",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RF chaining",
+		"key" : "LTE977",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "6 cell support with one System Module",
+		"key" : "LTE106",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Distributed Site",
+		"key" : "LTE614",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Outer Loop Link Adaptation for PDCCH",
+		"key" : "LTE135",
+		"tags" : [
+			"Link Adaptation"
+		]
+	}
+	,
+	{
+		"title" : "Transport Admission Control",
+		"key" : "LTE144",
+		"tags" : [
+			"Admission Control",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "DL power boosting for control channels",
+		"key" : "LTE430",
+		"tags" : [
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "Network Assisted Cell Change to GSM",
+		"key" : "LTE442",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "MME capacity value change",
+		"key" : "LTE450",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "DNS Support for Certificate Examination",
+		"key" : "LTE482",
+		"tags" : [
+			"Operability",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Subscriber profile ID selective neighbor cell list",
+		"key" : "LTE490",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Operator Specific QCI",
+		"key" : "LTE518",
+		"tags" : [
+			"Admission Control",
+			"QoS",
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Mobility Robustness",
+		"key" : "LTE533",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Dual Stream Beamforming",
+		"key" : "LTE541",
+		"tags" : [
+			"Beamforming"
+		]
+	}
+	,
+	{
+		"title" : "InterRAT handover to WCDMA",
+		"key" : "LTE56",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Periodic UE Measurements",
+		"key" : "LTE570",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "IP Transport Network Measurements",
+		"key" : "LTE574",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "PRACH Management",
+		"key" : "LTE581",
+		"tags" : [
+			"RRM",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Interference aware scheduling UL",
+		"key" : "LTE619",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "RL25TD FSM3 Performance Target",
+		"key" : "LTE1037",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "TDD configuration I --  cell configuration in RL25TD with FSM R3",
+		"key" : "LTE934",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FBBA Flexi Capacity Extension Sub-Module",
+		"key" : "LTE972",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FSMF Flexi Multiradio 10 System Module",
+		"key" : "LTE947",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FSMD Flexi System Module",
+		"key" : "LTE74",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Optimization of Intra-LTE neighbor relations",
+		"key" : "LTE771",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "ANR Intra-LTE Intra-frequency Fully UE based",
+		"key" : "LTE782",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Ethernet Jumbo Frames",
+		"key" : "LTE931",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "UL IRC receiver",
+		"key" : "LTE936",
+		"tags" : [
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "TD-LTE Sounding incl. Flexible Sounding Configuration",
+		"key" : "LTE969",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Intra-LTE Mobility Offsets",
+		"key" : "LTE971",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Usage based PDCCH adaptation",
+		"key" : "LTE939",
+		"tags" : [
+			"Link Adaptation"
+		]
+	}
+	,
+	{
+		"title" : "Cell configuration in RL35TD with OD FSMr3 - MIMO (basic)",
+		"key" : "LTE961",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Extended TD-LTE Site Configuration for RL35TD",
+		"key" : "LTE1392",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "TD-LTE dual carrier operation within one RRH/RF module",
+		"key" : "LTE1163",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "CMCC IR branch site configuration",
+		"key" : "LTE1483",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Single TRX configuration",
+		"key" : "LTE1475",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RRH Chaining",
+		"key" : "LTE933",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RRH Path Scalability",
+		"key" : "LTE1087",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "TD-S/TD-L dual mode operation with Ir Router",
+		"key" : "LTE1133",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Cell Combination (Supercell)",
+		"key" : "LTE993",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "DL TM8 based Dual User Single Layer MU-MIMO",
+		"key" : "LTE1169",
+		"tags" : [
+			"Beamforming",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Large LTE-GSM RF sharing Configurations",
+		"key" : "LTE1514",
+		"tags" : [
+			"HW & Site Solutions",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Load balancing",
+		"key" : "LTE1387",
+		"tags" : [
+			"Load Balancing",
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Support of QCI 2, 3 and 4",
+		"key" : "LTE496",
+		"tags" : [
+			"Admission Control",
+			"QoS",
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "ARP-based Admission Control for E-RABs",
+		"key" : "LTE534",
+		"tags" : [
+			"Admission Control",
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Smart Admission Control",
+		"key" : "LTE497",
+		"tags" : [
+			"Admission Control",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "eRAB Modification",
+		"key" : "LTE519",
+		"tags" : [
+			"Admission Control",
+			"QoS",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "IP Transport Monitoring With Standalone Devices",
+		"key" : "LTE574",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Multiple GBR Bearers per UE",
+		"key" : "LTE587",
+		"tags" : [
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "RL40 BTS Site Solutions",
+		"key" : "LTE1263",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FHDB Flexi RRH 2TX 900",
+		"key" : "LTE1261",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRMD Flexi 3-sector RF Module 800",
+		"key" : "LTE1306",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXEB Flexi 3-sector RF Module 1800",
+		"key" : "LTE1040",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXFA Flexi 3-sector RF Module 1900",
+		"key" : "LTE763",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FRIG Flexi RRH 4TX 1.7/2.1",
+		"key" : "LTE1148",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi 10 BTS Basic Configurations",
+		"key" : "LTE621",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FSMF Flexi Multiradio 10 System Module",
+		"key" : "LTE947",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Smart Admission Control (starter kit)",
+		"key" : "LTE497",
+		"tags" : [
+			"Admission Control",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "ARP Admission Control (starter kit)",
+		"key" : "LTE534",
+		"tags" : [
+			"Admission Control",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "64QAM in UL (TDD)",
+		"key" : "LTE44",
+		"tags" : [
+			"RRM",
+			"Simulations",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "System Upgrade from RL35 (TD-LBTS3.0) to RL45 (TD-LBTS4.0)",
+		"key" : "LTE1675",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced FSM-r3 ID variants FSIH & FBIH",
+		"key" : "LTE1510",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RL45 Site Configuration with FSIH",
+		"key" : "LTE1570",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RL45TD Performance and Capacity",
+		"key" : "LTE1162",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "TDD Downlink Carrier Aggregation",
+		"key" : "LTE1558",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Intra-Cell Handover",
+		"key" : "LTE511",
+		"tags" : [
+			"RRM",
+			"Security"
+		]
+	}
+	,
+	{
+		"title" : "Mixed system module configurations with RF sharing LTE-GSM",
+		"key" : "LTE1471",
+		"tags" : [
+			"HW & Site Solutions",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "18 Cells BTS RAN2394 Extended BTS Site Capacity",
+		"key" : "RAN2736",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "240W Multiradio Remote RF",
+		"key" : "RAN2317",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "3GPP Rel8 CBS ETWS Support",
+		"key" : "RAN2704",
+		"tags" : [
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "4-Way RX Diversity",
+		"key" : "RAN1269",
+		"tags" : [
+			"HW & Site Solutions",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "AAS Vertical Sectorization",
+		"key" : "RAN2384",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AAS Active Antenna System 2100act/1800pas, FAGF",
+		"key" : "RAN2383",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AAS RX/TX Tilting",
+		"key" : "RAN2579",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AAS Tilting per Carrier",
+		"key" : "RAN2569",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AAS Active Antenna System 2100act/800-900pas, FAGP",
+		"key" : "RAN2597",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AMR Codec Set for 2G-3G TrFO + speech codecs overview",
+		"key" : "RAN2578",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "AMR with DCH (00) support on Iur",
+		"key" : "RAN2831",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Automatic Access Class Restriction for NPI",
+		"key" : "RAN2480",
+		"tags" : [
+			"Admission Control",
+			"Mass Events"
+		]
+	}
+	,
+	{
+		"title" : "Automatic Object List Update in RNC Measurements",
+		"key" : "RAN1438",
+		"tags" : [
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Bandwidth utilization classes counters for RNC IP",
+		"key" : "RAN2106",
+		"tags" : [
+			"Controller",
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Bandwidth Utilization Classes Counters for VC and Bundle",
+		"key" : "RAN2105",
+		"tags" : [
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "BTS Backhaul over Physically Separated VLAN Interfaces",
+		"key" : "RAN2523",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Configurable carrier bandwidth solution",
+		"key" : "RAN2489",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Data Session Profiling",
+		"key" : "RAN2963",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic HSUPA BLER",
+		"key" : "RAN2302",
+		"tags" : [
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "Efficient Transport for Small IP Packets",
+		"key" : "RAN1886",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "End-user experienced DL Throughput",
+		"key" : "RAN1877",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Virtual Antenna Mapping",
+		"key" : "RAN2482",
+		"tags" : [
+			"Downlink Radio Transmission"
+		]
+	}
+	,
+	{
+		"title" : "Ethernet OAM part 1",
+		"key" : "RAN1880",
+		"tags" : [
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Ethernet OAM part 2",
+		"key" : "RAN1880",
+		"tags" : [
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Fast Cell_PCH Switching",
+		"key" : "RAN2494",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Fast Dormancy Profiling",
+		"key" : "RAN2451",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Fast HSPA Mobility",
+		"key" : "RAN2746",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Faster OLPC",
+		"key" : "RAN2886",
+		"tags" : [
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "Femto Handover Control",
+		"key" : "RAN2581",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Flexi 3-sector RF Module 1900",
+		"key" : "RAN1575",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi 3-sector RF module 1900 80W (FXFC)",
+		"key" : "RAN2742",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi 3-sector RF module 2100 80W (FRGT)",
+		"key" : "RAN2429",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi 3-sector RF module 2100 80W Sub-band (FRGS)",
+		"key" : "RAN2430",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi 3-sector RF module 850 80W (FXCB)",
+		"key" : "RAN2741",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi 3-sector RF module 900 80W (FXDB)",
+		"key" : "RAN2573",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi 3-sector RF Module 900J",
+		"key" : "RAN2615",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi BTS Gigabit Baseband",
+		"key" : "RAN2123",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Direct BTS Synchronous Ethernet",
+		"key" : "RAN2705",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Lite BTS",
+		"key" : "RAN2157",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Indoor Multiradio System Module",
+		"key" : "RAN2327",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Multiradio System Module",
+		"key" : "RAN2262",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi RRH 2TX 900",
+		"key" : "RAN1895",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexi RRH 2TX 900 (FHDB)",
+		"key" : "RAN2692",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{ "title" : "Fractional DPCH", "key" : "RAN1201", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "High Speed Train 350km/h",
+		"key" : "RAN2546",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "HSDPA 168 Mbps (Multi-Cell HSDPA)",
+		"key" : "RAN2211",
+		"tags" : [
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "HSPA over Iur",
+		"key" : "RAN1231",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "HSUPA Downlink Physical Channel Power Control",
+		"key" : "RAN971",
+		"tags" : [
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "Hybrid Backhaul with IP over ML-PPP and Ethernet",
+		"key" : "RAN2648",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "HSUPA Interference Cancellation Receiver - Impact on coverage",
+		"key" : "RAN1308",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "In-Bearer Application Optimization",
+		"key" : "RAN2510",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IP over ML-PPP on E1/T1 Interfaces v2",
+		"key" : "RAN1878",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IP Transport Network Measurements",
+		"key" : "RAN1900",
+		"tags" : [
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IP Transport Network Measurement Initiated from RNC and Flexi Direct BTS",
+		"key" : "RAN2255",
+		"tags" : [
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Iub Loadsharing with Protected NPGEs",
+		"key" : "RAN2338",
+		"tags" : [
+			"Controller",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Layering in RRC Connection Release",
+		"key" : "RAN2135",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "LTE PS Handover Overview",
+		"key" : "RAN2176",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Mass Event Handler",
+		"key" : "RAN2879",
+		"tags" : [
+			"Mass Events",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Mass Event Handler (starter kit)",
+		"key" : "RAN2879",
+		"tags" : [
+			"Mass Events",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "mcRNC 10GE based network connectivity",
+		"key" : "RAN2696",
+		"tags" : [
+			"Controller",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Measuring Channel Type Switches and DCH 0/0 Allocation",
+		"key" : "RAN2629",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{ "title" : "MIMO 42Mbps", "key" : "RAN1912", "tags" : [ "Peak Rate" ] }
+	,
+	{ "title" : "MIMO 28Mbps", "key" : "RAN1642", "tags" : [ "Peak Rate" ] }
+	,
+	{
+		"title" : "Multi-band Load Balancing (starter kit)",
+		"key" : "RAN2172",
+		"tags" : [
+			"Load Balancing"
+		]
+	}
+	,
+	{
+		"title" : "Multi-Band Load Balancing and Blind IFHO",
+		"key" : "RAN2172",
+		"tags" : [
+			"Load Balancing"
+		]
+	}
+	,
+	{
+		"title" : "Fast HSPA Mobility",
+		"key" : "RAN2746",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Fast HSPA Mobility II",
+		"key" : "RAN2738",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Bandwidth Utilization Classes Counters for RNC IP",
+		"key" : "RAN2106",
+		"tags" : [
+			"Controller",
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Bandwidth Utilization Classes Counters for VC and Bundle",
+		"key" : "RAN2105",
+		"tags" : [
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "RAN2167 & RAN1877 & RAN2629 usecases",
+		"key" : "",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Measuring Channel Type Switches and DCH 0/0 Allocation",
+		"key" : "RAN2629",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "State Transition Counters",
+		"key" : "RAN2167",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Performance Monitoring based on ETH Service OAM",
+		"key" : "RAN2243",
+		"tags" : [
+			"Performance",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Proxy ARP in BTS v2",
+		"key" : "RAN2083",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "RF Chaining up to 12 RFMs",
+		"key" : "RAN2779",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RF chaining",
+		"key" : "RAN1881",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RAN3018 BTS Load Based AACR",
+		"key" : "RAN3018",
+		"tags" : [
+			"Admission Control",
+			"Mass Events"
+		]
+	}
+	,
+	{
+		"title" : "Rapid Spanning Tree (RSTP) in BTS",
+		"key" : "RAN2156",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Refresher Fast Dormancy Profiling",
+		"key" : "RAN2451",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Refresher High Speed Cell_FACH",
+		"key" : "RAN1913",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "RF Chaining",
+		"key" : "RAN1881",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RRC Connection Setup Redirection",
+		"key" : "RAN147",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "SAB Support with 2 SCCPCHs",
+		"key" : "RAN2527",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "State Transition Counters",
+		"key" : "RAN2167",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Synchronous Ethernet Generation",
+		"key" : "RAN2071",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Timing over Packet Resilience",
+		"key" : "RAN2191",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "UE DRX in Cell_FACH",
+		"key" : "RAN1908",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "LTE System Information",
+		"key" : "BSS21353",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Inter System NACC for LTE",
+		"key" : "BSS21355",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Inter System NACC",
+		"key" : "BSS21045",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Inter-BSC NACC",
+		"key" : "BSS20083",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Energy Optimised TCH Allocation",
+		"key" : "BSS21222",
+		"tags" : [
+			"Power Consumption",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "PCU Restart Handling",
+		"key" : "BSS20045",
+		"tags" : [
+			"Controller",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Automatic EDAP Reallocation in PCU",
+		"key" : "BSS21232",
+		"tags" : [
+			"Controller",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Merged P- & E-GSM900",
+		"key" : "BSS21238",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Flexi BTS autoconection",
+		"key" : "BSS21316",
+		"tags" : [
+			"Operability",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "TRX Specific Link Adaptation for DLDC",
+		"key" : "BSS21392",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "DL DC Territory Procedures",
+		"key" : "BSS21343",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "TCSM3i Capacity Evolution",
+		"key" : "BSS21371",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{
+		"title" : "Flexi BSC Capacity Evolution",
+		"key" : "BSS21368",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{ "title" : "CSDAP Pool", "key" : "BSS30385", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "8k TRAU for AMR-FR",
+		"key" : "BSS21325",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Flexible Frame Offset Management",
+		"key" : "BSS101562",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "DFCA support for OSC",
+		"key" : "BSS21391",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "OSC Support for UltraSite",
+		"key" : "BSS21546",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Legacy Abis support with AoIP (TC in MGW)",
+		"key" : "BSS101407",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "CSD for AoIP (TC in MGW)",
+		"key" : "BSS101762",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Full GE support FIYB/FIQB",
+		"key" : "BSS101459",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Flexible MCPA TX Power Pooling",
+		"key" : "BSS21507",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"Power Consumption"
+		]
+	}
+	,
+	{
+		"title" : "(E)GPRS Downlink Power Control",
+		"key" : "BSS301666",
+		"tags" : [
+			"Power Control",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Support of Flexi Compact BTS",
+		"key" : "RG301613",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "IS-NCCR for TD-SCDMA (former NC2 from GSM to TD-SCDMA)",
+		"key" : "RG301736",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Fast Return for TD-SCDMA",
+		"key" : "RG301732",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "TX Power Normalised DL Level HO",
+		"key" : "RG301773",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Adjustable TBF Multiplexing Density",
+		"key" : "RG3017733",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Composite Multisite Transmission",
+		"key" : "RG602124",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Co-siting with Horizon BTS",
+		"key" : "RG602158",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexible MCPA Tx Power Pooling trial guideline (starter kit)",
+		"key" : "BSS21507",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"Power Consumption"
+		]
+	}
+	,
+	{
+		"title" : "Energy Efficient Coverage",
+		"key" : "BSS101623",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"Power Consumption"
+		]
+	}
+	,
+	{
+		"title" : "Local Switching for Packet Abis",
+		"key" : "BSS21327",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic PCU Pooling",
+		"key" : "BSS21361",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{
+		"title" : "Packet Abis IP/TDM Aggregation",
+		"key" : "BSS21539",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "OSC Capability Test for Handsets",
+		"key" : "BSS21542",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Packet Scheduler",
+		"key" : "BSS402072",
+		"tags" : [
+			"Admission Control",
+			"QoS",
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Admission Control for EGPRS",
+		"key" : "BSS402073",
+		"tags" : [
+			"Admission Control",
+			"QoS",
+			"RRM",
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "TCH Assignment Failure due to T3107 expiry counter",
+		"key" : "RG301781",
+		"tags" : [
+			"Performance",
+			"Security"
+		]
+	}
+	,
+	{
+		"title" : "Ciphering mode usage counters",
+		"key" : "RG301608",
+		"tags" : [
+			"Performance",
+			"Security"
+		]
+	}
+	,
+	{
+		"title" : "Inter-System Network Controlled Cell Reselection for LTE",
+		"key" : "RG301737",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "FHDB and FHEB Support (RRH modules for 900 MHz and 1800 MHz)",
+		"key" : "RG301844",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FXCB Support (RFM module 3x80W in 850 MHz)",
+		"key" : "RG301863",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "High Speed Rail Handover",
+		"key" : "RG602125",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic PCU2 Pooling trial guideline (starter kit)",
+		"key" : "BSS21361",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{
+		"title" : "RF Sharing GSM-LTE",
+		"key" : "BSS21520",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "ToP Phase Synchronization for DFCA",
+		"key" : "BSS101864",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "Mixed OSC and EDGE for ver-A Flexi EDGE DTRX",
+		"key" : "BSS101472",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "OSC and EDGE in the same BTS",
+		"key" : "RG301447",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "GSM RRH Loop Protection",
+		"key" : "BSS101985",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Intelligent MCPA TRX Shutdown",
+		"key" : "RG301936",
+		"tags" : [
+			"Power Consumption"
+		]
+	}
+	,
+	{
+		"title" : "GSM RF Chaining and CMST on FSM3",
+		"key" : "RG301978",
+		"tags" : [
+			"HW & Site Solutions",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "OSC Multiplexing Enhancements",
+		"key" : "RG602213",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Nearest Offset BTS",
+		"key" : "RG602219",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Feature introduction and dimensioning aspects",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Web Calculators for CCCH Processing Sets / HSDPA resources calculation",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Nokia BTS HSUPA Resource Management compared to other vendors",
+		"key" : "",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Triple carrier operation",
+		"key" : "LTE1779",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Support of High Speed Users",
+		"key" : "LTE48",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "FZHP Flexi RRH 2TX 2600",
+		"key" : "LTE1954",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FWHC Flexi Zone Enhanced BTS 2600 (Band 7, Low Band)",
+		"key" : "LTE1961",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "LTE-WCDMA RF sharing with full FBBC support",
+		"key" : "LTE2080",
+		"tags" : [
+			"HW & Site Solutions",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Advanced Dual Carrier Operation within same RF Unit",
+		"key" : "LTE2019",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "ANR Inter-RAT UTRAN - Fully UE based",
+		"key" : "LTE908",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "DC-HSDPA with MIMO 84Mbps",
+		"key" : "RAN1907",
+		"tags" : [
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic Baseband for HS RACH",
+		"key" : "RAN3280",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZHR Flexi RRH 8-pipe 2600 160W R",
+		"key" : "LTE2177",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZHN: Flexi RRH 8-pipe 2600 160W N",
+		"key" : "LTE2552",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Inter-eNB TDD CA site configuration",
+		"key" : "LTE2332",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "VoLTE capacity simulation campaign",
+		"key" : "",
+		"tags" : [
+			"Simulations",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "FDD-TDD DL Carrier Aggregation 2CC (F+T)",
+		"key" : "LTE2180",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional Carrier Aggregation band combinations 3CC - II ",
+		"key" : "LTE2528",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional FDD-TDD Carrier Aggregation band combinations - I",
+		"key" : "LTE2511",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "DRX in RRC connected mode",
+		"key" : "LTE42",
+		"tags" : [
+			"Power Consumption",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "PRACH Management Optimization for HetNet",
+		"key" : "LTE2020",
+		"tags" : [
+			"Operability",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Configurable Uplink Interference Regions",
+		"key" : "LTE2205",
+		"tags" : [
+			"RRM",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{ "title" : "OTDOA", "key" : "LTE495", "tags" : [ "Location Services" ] }
+	,
+	{
+		"title" : "GSM 17 Operability Features",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{ "title" : "ETWS broadcast", "key" : "LTE843", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "Radio Link Failures principles in eNB",
+		"key" : "",
+		"tags" : [
+			"Performance",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "LTE739 IPsec for BTS (Rel. 13)",
+		"key" : "LTE739",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Nokia Cloud Infrastructure System - IC17 (CBIS17 on MN HW)",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Carrier Aggregation functionalities in a Nutshell",
+		"key" : "",
+		"tags" : [
+			"Carrier Aggregation"
+		]
+	}
+	,
+	{
+		"title" : "eICIC for HetNet eNB configurations",
+		"key" : "LTE2133",
+		"tags" : [
+			"RRM",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "RRC Signaling Robustness - downlink",
+		"key" : "LTE2026",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"Link Adaptation"
+		]
+	}
+	,
+	{
+		"title" : "VoLTE quality triggered SRVCC to GSM",
+		"key" : "LTE3443",
+		"tags" : [
+			"Mass Events",
+			"Mobility & Multi-layer Optimization",
+			"QoS",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "NEI Complex LTE Baseband (LTE16A)",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.2 Transport QoS ",
+		"key" : "SR000402",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Fast IP Rerouting",
+		"key" : "SR000344",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SRVCC to GSM measurement optimization",
+		"key" : "LTE3127",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Synchronization Aspects in AirScale FL16A",
+		"key" : "",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "GNSS Manual Location Entry for Macro BTS",
+		"key" : "LTE2645",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "LTE3046 ToP−P Resilience",
+		"key" : "LTE3046",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "UL MU-MIMO 8RX",
+		"key" : "LTE1545",
+		"tags" : [
+			"Simulations",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "eNodeB Limitation Actions for License Management in LTE",
+		"key" : "LTE2621",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Mass Event Handler",
+		"key" : "RAN3266",
+		"tags" : [
+			"Mass Events",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Single BTS OAM  - BTS Transport connection to BTS Mediator Service",
+		"key" : "SR001499",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Fast Return to LTE",
+		"key" : "RG301854",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Fast Return to LTE",
+		"key" : "RG302343",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "HSUPA Resource Management in Nokia BTS  compared to other vendors ",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"HW & Site Solutions",
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{ "title" : "Basic MAC", "key" : "5GC000219", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : " System information broadcast",
+		"key" : "5GC000218",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "L2 RT on non-virtualized RCP",
+		"key" : "5GC000242",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale Capacity ABIK",
+		"key" : "5GC000202",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale Subrack AMIA",
+		"key" : "5GC000201",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale Common ASIA",
+		"key" : "5GC000200",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Performance targets for 5G17",
+		"key" : "5GC000226",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "5G VNF support",
+		"key" : "5GC000248",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AETA 4.5 GHz Radio Unit for trials",
+		"key" : "5GC000208",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "RF HW cmWave 28GHz 2nd gen",
+		"key" : "5GC000008",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Supported 5G RAP configurations - I",
+		"key" : "5GC000231",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FDD Inter-band/Intra-band Carrier Aggregation with Two Flexi Zone Micro BTSs ",
+		"key" : "LTE1858",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Zone Inter-FZAP Carrier Aggregation ",
+		"key" : "LTE2370",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Basic IPv4 Transport Stack",
+		"key" : "5GC000302",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based S1",
+		"key" : "5GC000249",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based RAC – RAU connection",
+		"key" : "5GC000303",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Beam tracking",
+		"key" : "5GC000228",
+		"tags" : [
+			"Beamforming"
+		]
+	}
+	,
+	{
+		"title" : "UL/DL analog beamforming at the 5G Node B",
+		"key" : "5GC000220",
+		"tags" : [
+			"Beamforming"
+		]
+	}
+	,
+	{
+		"title" : "Digital beamforming",
+		"key" : "5GC000245",
+		"tags" : [
+			"Beamforming"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Mass Event Handler",
+		"key" : "RAN3266",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Guaranteed Voice calls in High Load",
+		"key" : "RAN3341",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "MOCN capacity assurance",
+		"key" : "RAN2825",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Uplink coordinated multipoint",
+		"key" : "RAN3044",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Flexible HSDPA Carriers Allocation",
+		"key" : "RAN3067",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Dedicated Priorities",
+		"key" : "RAN3079",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "2ms TTI non-FDPCH users increase",
+		"key" : "RAN3259",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Optimized HSDPA Scheduler",
+		"key" : "RAN3269",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic Baseband for HS RACH",
+		"key" : "RAN3280",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "UE history for WCDMA to LTE mobility",
+		"key" : "RAN3291",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "RRC Connection Setup Redirection",
+		"key" : "RAN147",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{ "title" : "Dual Cell HSUPA", "key" : "RAN1905", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "HSUPA Compressed Mode for LTE and IFHO",
+		"key" : "RAN1668",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "UE DRX in Cell_FACH",
+		"key" : "RAN1908",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Layering in RRC Connection Release",
+		"key" : "RAN2135",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Performance Monitoring based on ETH Service OAM",
+		"key" : "RAN2243",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced HSUPA Interference Cancellation",
+		"key" : "RAN2250",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Automatic mcRNC resource optimization",
+		"key" : "RAN2251",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{ "title" : "Smart LTE Handover", "key" : "RAN2264", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "SRVCC from LTE and CSFB with HO",
+		"key" : "RAN2435",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Automatic Access Class Restriction",
+		"key" : "RAN2480",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Fast Cell_PCH Switching",
+		"key" : "RAN2494",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "RNC resiliency for rnc2600",
+		"key" : "RAN2512",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "High Speed Cell FACH Enhanced",
+		"key" : "RAN2518",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "VHS Receiver for High Speed Train",
+		"key" : "RAN2546",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Smart LTE Layering",
+		"key" : "RAN2717",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "HSPA Subscriber Increase",
+		"key" : "RAN2869",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "WCDMA & GSM Layer Priorities",
+		"key" : "RAN2881",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "WCDMA-LTE Load Balancing",
+		"key" : "RAN2892",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Data Session Profiling",
+		"key" : "RAN2963",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Measurement Based LTE Layering",
+		"key" : "RAN2980",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Network resiliency for mcRNC",
+		"key" : "RAN3005",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Common OAM Introduction",
+		"key" : "RAN3010",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "VHS Receiver for High Speed Train",
+		"key" : "RAN3018",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Advanced HSUPA Time Division Scheduling",
+		"key" : "RAN3043",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Signaling capacity license for mcRNC",
+		"key" : "RAN3057",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced MBLB NPI briefing",
+		"key" : "RAN3093",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Offline SCF conversion from dedicated RAT BTS to SBTS17",
+		"key" : "SR001420",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "BTS Mediator",
+		"key" : "SR001536",
+		"tags" : [
+			"Operability",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Harmonized Object model for SRAN and LTE",
+		"key" : "SR001527",
+		"tags" : [
+			"Operability",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Harmonized Object Model for SRAN",
+		"key" : "SR001541",
+		"tags" : [
+			"Operability",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Single BTS OAM - BTS Transport connection to BTS Mediator Service",
+		"key" : "SR001499",
+		"tags" : [
+			"Operability",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SRAN 17 Air Interface and Transport Performance",
+		"key" : "SR001342",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "GSM Support in new Single BTS O&M architecture",
+		"key" : "SR001542",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SBTS support for 36 TRX",
+		"key" : "SR001017",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SBTS Support for CPRI-A with LTE",
+		"key" : "SR001215",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Introduction of DCS (Data Calculation Service) for BTS configuration",
+		"key" : "SR001530",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Support for already delivered SBTS configuration set",
+		"key" : "SR001505",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SBTS support for new Radio Module Introduction",
+		"key" : "SR001548",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "New SRAN SBTS cell sets on single FSMF",
+		"key" : "SR001581",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SBTS RF sharing with OBSAI RF unit chaining",
+		"key" : "SR001208",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Introduction to common transport SRAN16",
+		"key" : "SR000954",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.2 IPsec intro",
+		"key" : "SR000356",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Multiple VLAN interfaces",
+		"key" : "SR000382",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based S1/X2",
+		"key" : "SR000395",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based Iub",
+		"key" : "SR000396",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based Packet Abis Transport",
+		"key" : "SR000397",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4/IPv6 Transport Stack",
+		"key" : "SR000589",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.2 Transport Migration",
+		"key" : "",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "BTS QoS Support for Terminated and Routed Traffic",
+		"key" : "SR000402",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "QoS Aware Ethernet Switching",
+		"key" : "SR000386",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "TDM fallback for GSM Application",
+		"key" : "SR000650",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Fast IP Rerouting",
+		"key" : "SR000344",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SBTS WebUI",
+		"key" : "SR000713",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "ML-PPP termination",
+		"key" : "SR000176",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Ethernet Termination",
+		"key" : "SR000350",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Symmetrical E1 Interface",
+		"key" : "SR000357",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Electrical 100/1000-Base-T Interface",
+		"key" : "SR000365",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "BTS Firewall",
+		"key" : "SR000366",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Small Form Factor Pluggable Slot (SFP slot)",
+		"key" : "SR000367",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Base-SX Optical GE Interface",
+		"key" : "SR000368",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "1000Base-LX Optical GE Interface",
+		"key" : "SR000369",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "1000Base-ZX Optical GE Interface",
+		"key" : "SR000370",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "1000Base-BX Optical GE Interface",
+		"key" : "SR000371",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Common OAM Introduction",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Interference Control in HetNet",
+		"key" : "RAN3270",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Optimized Neighbor Cell Processing",
+		"key" : "RAN3271",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.2 Common transport delta NEI complex",
+		"key" : "",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Counters profiles enhancement including the UE category",
+		"key" : "LTE3701",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "5GC000179 Synchronization",
+		"key" : "5GC000179",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "5GC000244 GNSS Receiver FYGB",
+		"key" : "5GC000244",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "5GC000393 GNSS Receiver FYGM",
+		"key" : "5GC000393",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "RSRQ-based LTE Reselection",
+		"key" : "RAN3069",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Additional Carrier Aggregation band combinations 2CC – V",
+		"key" : "LTE3047",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional Carrier Aggregation band combinations 3CC – III",
+		"key" : "LTE3048",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional Carrier Aggregation band combinations 4CC - I",
+		"key" : "LTE3439",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional Uplink Carrier Aggregation band combinations – I",
+		"key" : "LTE3213",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional FDD-TDD Carrier Aggregation band combinations – II",
+		"key" : "LTE3049",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Additional FDD-TDD Carrier Aggregation band combinations - V",
+		"key" : "LTE3688",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Common Element Manager for LTE and SRAN",
+		"key" : "SR001503",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Common Element Manager for LTE and SRAN - NPI briefing",
+		"key" : "SR001503",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "FZHS Flexi RRH 2T2R 2600 5W",
+		"key" : "LTE2176",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZHQ Flexi RRH 8T8R 2600 20W",
+		"key" : "LTE2187",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FZFH Flexi RRH 4-pipe 1900 & 2600 140W H",
+		"key" : "LTE2365",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FWNA /B/C Flexi Zone Indoor Pico BTS 2300 (Band 40)",
+		"key" : "LTE2092",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FWND Flexi Zone BTS 2300 (Band 40)",
+		"key" : "LTE2290",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Radio Admission Control",
+		"key" : "5GC000104",
+		"tags" : [
+			"Admission Control",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "UE Context Setup",
+		"key" : "5GC000019",
+		"tags" : [
+			"QoS",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Handling of UE radio capabilities",
+		"key" : "5GC000083",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Ciphering",
+		"key" : "5GC000087",
+		"tags" : [
+			"RRM",
+			"Security"
+		]
+	}
+	,
+	{
+		"title" : "Integrity protection",
+		"key" : "5GC000088",
+		"tags" : [
+			"RRM",
+			"Security"
+		]
+	}
+	,
+	{
+		"title" : "Baseband pooling",
+		"key" : "LTE2733",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Harmonized Object Model for SRAN and LTE",
+		"key" : "LTE3296",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Uplink Intra eNodeB CoMP 8 RX with Softbit Combination",
+		"key" : "LTE2128",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{ "title" : "NB-IoT Part 1", "key" : "LTE3071", "tags" : [ "IoT" ] }
+	,
+	{
+		"title" : "eMBMS in RAN Sharing Deployment",
+		"key" : "LTE3201",
+		"tags" : [
+			"Network Sharing",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "UL Timing Advance",
+		"key" : "5GC000251",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "SR00724 IPv6 for S-Plane",
+		"key" : "SR000724",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SRAN 17A - Dual Stack For S1/X2",
+		"key" : "SR000833",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "eNodeB Limitation Actions for License Management in LTE",
+		"key" : "LTE2621",
+		"tags" : [
+			"Admission Control",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "UE Level MRO ",
+		"key" : "LTE2591",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "AirScale TD-LTE 4T4R Site Configurations ",
+		"key" : "LTE2306",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale TDD 8T8R Site Configurations for TL17",
+		"key" : "LTE2720",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FSMr3 TDD Site Configurations in TL17",
+		"key" : "LTE2953",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic handover blacklisting",
+		"key" : "LTE1944",
+		"tags" : [
+			"Admission Control",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "SRAN - Improved combined FM Service",
+		"key" : "LTE3342",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "RRC Connection Rejection with Deprioritization",
+		"key" : "LTE1536",
+		"tags" : [
+			"Admission Control",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Roaming and access restrictions removal for CSFB emergency calls",
+		"key" : "LTE2410",
+		"tags" : [
+			"Admission Control",
+			"Operability",
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "Network Engineering Delivery Center (NEDC) introduction",
+		"key" : "",
+		"tags" : [
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Nokia BTS product overview & Nokia concept for building eNB configurations",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Bearer Management & Admission Control",
+		"key" : "",
+		"tags" : [
+			"Admission Control"
+		]
+	}
+	,
+	{
+		"title" : "LTE Link Adaptation principles",
+		"key" : "",
+		"tags" : [
+			"Link Adaptation"
+		]
+	}
+	,
+	{ "title" : "DRX principles", "key" : "", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "RL50FZ Small Cell Field Performance",
+		"key" : "",
+		"tags" : [
+			"Performance",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "LTE UL Power Control principles",
+		"key" : "",
+		"tags" : [
+			"Power Control",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Intra and inter eNB handover with X2",
+		"key" : "LTE53",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Intra-LTE handover via S1",
+		"key" : "LTE54",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Inter-frequency handover",
+		"key" : "LTE55",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "LTE Transmission Modes in Nokia",
+		"key" : "",
+		"tags" : [
+			"Beamforming"
+		]
+	}
+	,
+	{
+		"title" : "UL Coordinated Multipoint (UL CoMP)",
+		"key" : "",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Performance management training",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "MINT as a platform",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Radio products in MINT (Network Auditor)",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Parameter management in MINT – PKDB",
+		"key" : "",
+		"tags" : [
+			"RRM",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "RRC connection release with redirect ",
+		"key" : "LTE423",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "RSRQ based Cell Reselection",
+		"key" : "LTE1036",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Reporting Suite Nokia Radio GSM",
+		"key" : "",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "KLONDIKE basic training",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Simple Loading Tool (SLOT) training",
+		"key" : "",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Small Cells in  Ultra Dense Networks",
+		"key" : "",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.x introduction",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Support for intra-frequency A3 RSRQ measurement",
+		"key" : "LTE3462",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Element manager with basic functionalities and views",
+		"key" : "5GC000103",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "NEI RP000358 Eth L OAM EFM",
+		"key" : "RP000358",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "NEI RP000358 Eth S OAM CFM",
+		"key" : "RP000358",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "LTE3552 eMBMS capacity enhancement and support for overlapping of MBSFN Areas ",
+		"key" : "LTE3552",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "5G17 Operability aspects - Site deployment",
+		"key" : "5GC000093",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Common S1 and NAS signalling support ",
+		"key" : "5GC000078",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "UE RRC state management ",
+		"key" : "5GC000020",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Support for non-GBR QCI values ",
+		"key" : "5GC000085",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Support of basic PDCP functions ",
+		"key" : "5GC000015",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Support of basic RLC functions",
+		"key" : "5GC000238",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic FZAP Plug & Play",
+		"key" : "LTE1998",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Zone Plug & Play Optimization",
+		"key" : "LTE2191",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Zone Zone-Based Self-Configuration",
+		"key" : "LTE1997",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic allocation of eMBMS resources",
+		"key" : "LTE3200",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "RAN Dim v9.0 - Introduction and general handling",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "RAN Dim v9.0 - Signalling & Smartphones",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "New RAN features in RAN Dim v10.0",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "New RAN features in RAN Dim 10.2",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "PaCo Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "PaCo Dimensioning Basics with Otops",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "MSSPlant Advanced Part 2",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "PlantSC Introduction based on TAS product",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Dimensioning of Open TAS 15.0",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "CS CORE Modernization",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Dimensioning of Open BGW 15.0",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Dimensioning of MSS M16.2",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "IMS Dimensioning Advanced",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "DL 4x4 MIMO with Carrier Aggregation",
+		"key" : "LTE2582",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "TDD downlink carrier aggregation with 4 layers MIMO",
+		"key" : "LTE2532",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "CSCF Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "NT HLR 15.5 Basic Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "NT HLR 15.5 Advanced Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "MINT support for Core domain",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Flexi NG 16 Cloud - dimensioning & tools",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "ACORD - dimensioning tool introduction",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Update on CORE Products in MINT",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Flexi NS15 ATCA Dimensioning Guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "MSSPlant Advanced Part 1 - outdated",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "NCIO/NCIV 16 dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Flexi NS16 ATCA dimensioning & tools",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Open BGW 16 ATCA dimensioning & tools",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Flexi NS 16 Cloud dimensioning & tools",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Acord dimensioning tool training – NCI",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Open BGW 15.5 Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Open MGW16 dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Network Auditor - parameters analysis",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Combined Supercell",
+		"key" : "LTE2445",
+		"tags" : [
+			"Downlink Radio Transmission"
+		]
+	}
+	,
+	{
+		"title" : "256 QAM in Downlink for Flexi Zone BTS on TD-LTE",
+		"key" : "LTE3020",
+		"tags" : [
+			"Link Adaptation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "256 QAM in Downlink for Flexi Zone BTS on FDD-LTE",
+		"key" : "LTE3502",
+		"tags" : [
+			"Link Adaptation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "256 QAM extensions",
+		"key" : "LTE3073",
+		"tags" : [
+			"Link Adaptation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "PIM Cancellation \u000bfor CPRI-A Radios",
+		"key" : "LTE3368",
+		"tags" : [
+			"HW & Site Solutions",
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RRH 4T4R B3 160W AHEB",
+		"key" : "LTE2784",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UDxx DAS RFM High Band CPRI-A RRH 2-Pipe 80mW",
+		"key" : "LTE3311",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UDxx DAS RFM Low Band CPRI-A RRH 2-Pipe 80mW",
+		"key" : "LTE3312",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RRH 4T4R B5 160W AHCA ",
+		"key" : "LTE3399",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UHBE 9768 cMRO B13 5W CPRI-A MRO RRH 2-Pipe 700 ",
+		"key" : "LTE3411",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "UHFG 9768 cMRO B2 5W  CPRI-A MRO RRH 2-Pipe 1900",
+		"key" : "LTE3412",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale Metro 4T4R B25 20W AHFB",
+		"key" : "LTE3429",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale Metro 4T4R B66 20W AHIB",
+		"key" : "LTE3431",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Parameter Reports management in MINT- OWL.",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "AirScale HW capacity activation licence",
+		"key" : "LTE2517",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Baseband pooling",
+		"key" : "LTE2733",
+		"tags" : [
+			"Dimensioning",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "TDLTE Baseband pooling",
+		"key" : "LTE2912",
+		"tags" : [
+			"Dimensioning",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "TDD-LTE 17SP Performance and Capacity",
+		"key" : "LTE3632",
+		"tags" : [
+			"Dimensioning",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "FDD Initial CPRI-A BTS configurations for FSMF ",
+		"key" : "LTE2965",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "FDD BTS configurations for CPRI-A radios on AirScale SM ",
+		"key" : "LTE3107",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Support of user location information",
+		"key" : "LTE2400",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "New Performance Counters LTE 16A",
+		"key" : "LTE2140",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Flexible QCI/ARP PM Counter Profiles",
+		"key" : "LTE2766",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced VoLTE Performance Monitoring",
+		"key" : "LTE2493",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "\t RSRP and RSRQ histograms",
+		"key" : "LTE2804",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "SMS over SGs Interface & Circuit Switched Fall-Back (CSFB)",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Basic VoLTE/QoS/IP-SM-GW for SMS over IR&SRVCC",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "IMS10.1: Support of Visited Network Scenario",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "IMS Dimensioning Basics",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "IMS10.1: HSS Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "IMS11.0: IMS Virtualization",
+		"key" : "",
+		"tags" : [
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Voice Call Continuity from LTE to 2G/3G Access",
+		"key" : "",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Controlled Roaming - Fexi NS4.0",
+		"key" : "",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{ "title" : "IMS Emengency Call", "key" : "", "tags" : [ "Transport" ] }
+	,
+	{
+		"title" : "Basic Scheduler",
+		"key" : "5GC000215",
+		"tags" : [
+			"Scheduler",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Proactive uplink resource assignment",
+		"key" : "5GC000252",
+		"tags" : [
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Nokia Cloud Infrastructure System - IC17.5 (CBIS17.5 on MN HW)",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "5G Fundamentals - introduction to physical layer",
+		"key" : "",
+		"tags" : [
+			"Beamforming",
+			"Downlink Radio Transmission",
+			"Scheduler",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Subscriber and Equipment Trace",
+		"key" : "LTE163",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Cell trace",
+		"key" : "LTE433",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Configurable cell trace content",
+		"key" : "LTE644",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Nokia FastMile info package",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "5GC000017 Support of 5G Uplink and Downlink Power Control",
+		"key" : "5GC000017",
+		"tags" : [
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "LTE Timing Advance Evaluation",
+		"key" : "LTE459",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "MDT (Minimization of Drive Test)",
+		"key" : "LTE953",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Cell Trace with IMSI",
+		"key" : "LTE162",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Measurement Report (MR) addition to cell trace",
+		"key" : "LTE1501",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "RIP (Received Interference Power) measurement report extension / Support RIP initiated alarms",
+		"key" : "LTE1914",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Measurement Report addition with UE Uplink SINR",
+		"key" : "LTE1931",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "MDT - UE measurement logs",
+		"key" : "LTE1049",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "UE MAC measurement addition to cell trace",
+		"key" : "LTE2084",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "MDT cell trace enhancements",
+		"key" : "LTE1308",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Configurable buffering time for protocol tracing",
+		"key" : "LTE2199",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "MDT - UE Radio Link Failure report evaluation",
+		"key" : "LTE678",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Addition of MAC measurements to cell trace",
+		"key" : "LTE2202",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "4-way Rx Diversity",
+		"key" : "LTE72",
+		"tags" : [
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "NEI Creation Process",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Message 3 DTX Robustness",
+		"key" : "LTE2369",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "User throughput to include the Initial Burst Delay",
+		"key" : "LTE3778",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Additional KPIs for performance monitoring",
+		"key" : "LTE3475",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "IMS Virtualization",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Open MGW 16.5 SP2 dimensioning training materials",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Packet Abis Security",
+		"key" : "BSS21444",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IP Security Alignment Phase 1",
+		"key" : "RG302038",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IP Security",
+		"key" : "RAN1747",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "LTE IPsec Support",
+		"key" : "LTE689",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Backup IPsec Tunnel",
+		"key" : "LTE1753",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Open MGW 16.5 SP3 dimensioning training materials",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "LTE OMS PM Multi Timezone Support",
+		"key" : "LTE3662",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{ "title" : "MSSPlant Basic", "key" : "", "tags" : [ "Dimensioning" ] }
+	,
+	{
+		"title" : "MSSPlant Advanced Part 1",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Network Engineering eXcellence Tools",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "5G Carrier Aggregation",
+		"key" : "5GC000227",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "Concurrent LTE-CDMA operation for CPRI-A RRHs LTE3302",
+		"key" : "LTE3302",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Basic IPv4 Transport Stack",
+		"key" : "5GC000302",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based S1",
+		"key" : "5GC000249",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4 based RAC – RAU connection",
+		"key" : "5GC000303",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced Fast Return to LTE (Customer WS materials)",
+		"key" : "RG302343",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Mass events handling in LTE",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions",
+			"Mass Events",
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Acord CMG 9.0R1 Dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Harmonized Object Model for SRAN and LTE (SOAM)",
+		"key" : "LTE3296",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "5G17: UL SU MIMO & UL TX Diversity",
+		"key" : "5GC000224",
+		"tags" : [
+			"Peak Rate",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Sync Hub Direct Forward",
+		"key" : "SR00554",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "Synchronization Hub with FCLK/FN signal as output",
+		"key" : "SR001147",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "1PPS&ToD Sync from Sync Hub Master",
+		"key" : "SR00567",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "64QAM in UL (FDD)",
+		"key" : "LTE44",
+		"tags" : [
+			"RRM",
+			"Simulations",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Inter eNode B Carrier Aggregation",
+		"key" : "LTE2007",
+		"tags" : [
+			"Carrier Aggregation",
+			"HW & Site Solutions",
+			"Peak Rate",
+			"RRM",
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "One eNB Dual Common Unit operation (FDD)",
+		"key" : "LTE2866",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Proactive UL Resource Assignment",
+		"key" : "LTE815",
+		"tags" : [
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "Proactive UL Resource Assignment",
+		"key" : "LTE815",
+		"tags" : [
+			"RRM",
+			"Scheduler",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "RSRP and RSRQ histograms",
+		"key" : "LTE2804",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "AirScale Common ASIAA",
+		"key" : "LTE4168",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LTE3265 GPS outage handling for OTDOA",
+		"key" : "LTE3265",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "fdd-lte17A radio modules Workshop lte3322 CDIU",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "SRAN 16.10 Transport separation for LTE RAN sharing",
+		"key" : "",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "IMS 17 dimensioning with ACORD",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.10 MOBSS support for SRAN",
+		"key" : "",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "SRAN16.10 Common-BCCH / Multi-BCF",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "LTE2866 One eNB Dual Common Unit operation (TDD)",
+		"key" : "LTE2866",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RNC17 RRM, Telecom and Feature Parity",
+		"key" : "RC0228",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RNC17 Iu, Iur, Iub Interfaces and Core Transport Functionality",
+		"key" : "RC0238",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "TDD DL Carrier Aggregation enhancements",
+		"key" : "LTE1830",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic Voice Call Prioritization",
+		"key" : "RAN3388",
+		"tags" : [
+			"Mass Events"
+		]
+	}
+	,
+	{
+		"title" : "How to deal with NEI Paths in webNEI",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Support of uplink and downlink link adaptation",
+		"key" : "5GC000217",
+		"tags" : [
+			"Link Adaptation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Modulation and Coding Schemes",
+		"key" : "5GC000214",
+		"tags" : [
+			"Link Adaptation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "5G17 NB Architecture and HW Components Complex",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "5G17 Transport Complex",
+		"key" : "",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Measurement Based LTE Layering",
+		"key" : "RAN2980",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RNC17 NEI",
+		"key" : "D546613350",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{ "title" : "NB-IoT Part 2", "key" : "LTE3071", "tags" : [ "IoT" ] }
+	,
+	{
+		"title" : "TD-LTE 18 Radio Modules",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RNC18 Standalone Site Solution with Dell ToR Switches",
+		"key" : "RC0587",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RNC18 Site solution for Network sharing",
+		"key" : "RC0590",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RNC18 Multiple Network Topology",
+		"key" : "RC0665",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "MSS Cloud 17 dimensioning with ACORD",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "CMM 17.5 Dimensioning support with Acord Tools",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Nokia HSS 18 dimensioning guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Open MSS Cloud CM CFP1 dimensioning guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Per Call Measurement Data (PCMD)",
+		"key" : "LTE3333",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "PCMD - Per Bearer Report",
+		"key" : "LTE3334",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "PCMD – per call report extension",
+		"key" : "LTE3336",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "PCMD – RRC Connection Failure",
+		"key" : "LTE3356",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "PCMD – CA Report",
+		"key" : "LTE3335",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "PCMD – Measurement Report",
+		"key" : "LTE3357",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "LTE3668 NB-IoT Coverage Enhancements",
+		"key" : "LTE3668",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "LTERLCR-17523 Allow Re-establishment on New CRNTI after RACH but no MSG3",
+		"key" : "",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "LTERLCR-18002 Add QCI-1 specific counters for eRAB RNL_MOB failures",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "LTERLCR-18327 Improve VoLTE retainability by removing RRC Reconfiguration after TTI Bundling HO",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "LTERLCR-17318 Change in RRC guard timer behaviour- DCR and AFR KPI improvements ",
+		"key" : "",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Application of Diagnostic and Maintenance for Intelligent Network (ADMIN)",
+		"key" : "LTE2883",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "RRC Connection Re-establishment",
+		"key" : "LTE735",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "N-out-of-M downlink Carrier Aggregation",
+		"key" : "LTE2233",
+		"tags" : [
+			"Carrier Aggregation",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Automatic Triggered Network Resiliency for mcRNC",
+		"key" : "RAN3334",
+		"tags" : [
+			"Controller",
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "5G Dimensioning Guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "Dimensioning guideline (Open MSS 17 and Open MSS CM CFP1)",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Additional DL initial burst delay counters for overall traffic and CA",
+		"key" : "LTE3865",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "LTE3669 NB-IoT Paging Support",
+		"key" : "LTE3669",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "DL 4x4 MIMO with Carrier Aggregation – 12 layers",
+		"key" : "LTE3605",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate"
+		]
+	}
+	,
+	{
+		"title" : "LTE2182 (Enhanced Flexi Zone Plug & Play for Non-Operator Owned Backhaul)  and LTE3267 (IPv6 PnP over IPv4 IPSec)",
+		"key" : "LTE2182",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "High rate HD voice",
+		"key" : "RAN3372",
+		"tags" : [
+			"Admission Control",
+			"QoS"
+		]
+	}
+	,
+	{
+		"title" : "Load-based HE voice rate",
+		"key" : "RAN1838",
+		"tags" : [
+			"Admission Control"
+		]
+	}
+	,
+	{
+		"title" : "Network Resiliency for mcBSC (RG302547 incl.)",
+		"key" : "RG301939",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "LTE3819 Cat-M and NB-IoT on same frequency carrier ",
+		"key" : "LTE3819",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "Load based PUCCH Region",
+		"key" : "LTE2664",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Flexi Zone Intra-BTS uplink 2CC carrier aggregation",
+		"key" : "LTE3011",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Smooth Power Control for High Uplink Data Rates",
+		"key" : "RAN3377",
+		"tags" : [
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "IRAT idle mode mobility for 1.4MHz and 3MHz bandwidth cell",
+		"key" : "LTE3106",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "FDD-LTE Dual Carrier (2x20 MHz) Operation Support on a Single Flexi Zone Micro BTS",
+		"key" : "LTE2629",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Inter Frequency Load Equalization",
+		"key" : "LTE1841",
+		"tags" : [
+			"Load Balancing",
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Nokia TAS 17.5 dimensioning guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Baseband Pooling",
+		"key" : "LTE2733",
+		"tags" : [
+			"HW & Site Solutions",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Enahnced BCCH Energy Saving",
+		"key" : "RG302529",
+		"tags" : [
+			"Power Consumption",
+			"Power Control"
+		]
+	}
+	,
+	{
+		"title" : "SBTS SW License Management",
+		"key" : "SR000794",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Adaptation of License Management to new O&M architecture",
+		"key" : "SR001507",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Licensing support of AirScale Indoor capacity in SBTS",
+		"key" : "SR001376",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "fdd-lte17A SP1 Radio modules",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Support of classical WCDMA/LTE RF-sharing on 3Tx/6Rx RF-module (Rel. 3.3-family) ",
+		"key" : "LTE2881",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "4- and 6-sector support for classical WCDMA/LTE RF-sharing ",
+		"key" : "LTE2998",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Classical WCDMA/LTE RF-sharing with 40 MHz occupied bandwidth ",
+		"key" : "LTE3129",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Classical WCDMA/LTE RF-sharing on AirScale SM Indoor ",
+		"key" : "LTE2483",
+		"tags" : [
+			"RF Sharing"
+		]
+	}
+	,
+	{
+		"title" : "eMBMS enhancements for public safety ",
+		"key" : "LTE2839",
+		"tags" : [
+			"Public Safety",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Time Division Scheduling for High Uplink Data Rates",
+		"key" : "RAN3383",
+		"tags" : [
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "5GNB Software upgrade procedure  - 5G17",
+		"key" : "5GC000177",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "IPsec for BTS",
+		"key" : "SR000356",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPsec Emergency Bypass",
+		"key" : "SR000439",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Backup IPsec Tunnel",
+		"key" : "SR000600",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "SRAN17A IPsec complex",
+		"key" : "",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "FL17/FL17A /FL17ASP1 Flexi Zone Site Solutions (Small Cells)",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions",
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Intelligent Cell Breathing",
+		"key" : "RAN3370",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "LTE1891 Micro-DTX",
+		"key" : "LTE1891",
+		"tags" : [
+			"Power Consumption"
+		]
+	}
+	,
+	{
+		"title" : "SRAN - Improved combined FM service",
+		"key" : "LTE3342",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "SRAN FM combined service",
+		"key" : "SR001534",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "High power UE specific mobility thresholds",
+		"key" : "LTE3586",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "SIB, paging and RA messages via RAT2 with localized VRB",
+		"key" : "LTE2354",
+		"tags" : [
+			"Downlink Radio Transmission",
+			"RRM",
+			"Scheduler"
+		]
+	}
+	,
+	{
+		"title" : "AirScale RNC 17 V9 Dimensioning Guideline",
+		"key" : "",
+		"tags" : [
+			"Controller"
+		]
+	}
+	,
+	{
+		"title" : "Open MGW 18 dimensioning training materials",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "Downlink Carrier Aggregation 4CC 80 MHz",
+		"key" : "LTE2531",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "RAN2922 Control Channel Interference Cancellation",
+		"key" : "RAN2922",
+		"tags" : [
+			"Performance",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Multiband Radio Configurations with AirScale System Module ",
+		"key" : "LTE3753",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Support Cpri IQ Compression Function on AirScale System Module",
+		"key" : "LTE2492",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "CPRI-A and Nokia CPRI support in the same ABIA for FDD LTE ",
+		"key" : "LTE3816",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LTERLCR-18250 Improve C-Plane design to cancel RLF timer if in-sync is received from u-plane",
+		"key" : "",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "LTERLCR-17722 Extending range of RRC guard timer",
+		"key" : "",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "Enhanced VoLTE, CA and RF Quality Monitoring",
+		"key" : "LTE3303",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "SRAN 17A Radio Modules",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Nokia TAS 17 dimensioning guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "RAN3400 Automatic WCDMA Symptom Data Transfer to LSS",
+		"key" : "RAN3400",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "RAN3306 Cell Level Counters for LTE Mobility",
+		"key" : "RAN3306",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "RAN2974 Embedded mcRNC Event Based Symptom Collection",
+		"key" : "RAN2974",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "RAN3364 Active HSUPA Cell Throughput KPI",
+		"key" : "RAN3364",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "RAN3406 Voice Counters per Iur",
+		"key" : "RAN3406",
+		"tags" : [
+			"Operability",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Power Efficient Operations",
+		"key" : "RG302560",
+		"tags" : [
+			"IoT",
+			"Power Consumption"
+		]
+	}
+	,
+	{
+		"title" : "Dimensioning of CSFB and SMS over SGs interface in MSS",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "256QAM in downlink",
+		"key" : "LTE2479",
+		"tags" : [
+			"Link Adaptation",
+			"Peak Rate",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "FDD-LTE 18 Radio Modules",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LTE3543 NB-IoT Standalone",
+		"key" : "LTE3543",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "SDM dimensioning guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Cat M1 Coexistence with High speed UEs",
+		"key" : "LTE4123",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "Cat-M1 4Tx eNB support",
+		"key" : "LTE3672",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "fdd-lte17A Radio modules",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "NB-IoT intra-frequency idle mode mobility",
+		"key" : "LTE4414",
+		"tags" : [
+			"IoT",
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "4Rx diversity 10 MHz optimized configurations ",
+		"key" : "LTE3224",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "LAA Micro RRH FDD Configurations for FSM4 ",
+		"key" : "LTE3664",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "AirScale Nokia CPRI Radio FDD configurations with Flexi MR 10 SM ",
+		"key" : "LTE3709",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Flexible SCell selection",
+		"key" : "LTE2006",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"RRM",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "FDD Downlink Carrier Aggregation 5CC",
+		"key" : "LTE3225",
+		"tags" : [
+			"Carrier Aggregation",
+			"Peak Rate",
+			"Simulations"
+		]
+	}
+	,
+	{
+		"title" : "FZM dynamic IP for multiple tunnels",
+		"key" : "LTE3978",
+		"tags" : [
+			"Small Cells"
+		]
+	}
+	,
+	{
+		"title" : "Dynamic PUCCH Allocation",
+		"key" : "LTE1130",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "SRAN 16.10 Transport separation for LTE and WCDMA RAN sharing",
+		"key" : "",
+		"tags" : [
+			"Network Sharing",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "How to use new webNEI search engine",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "MOBSS support for SRAN",
+		"key" : "",
+		"tags" : [
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "Cat-M1: Improved Single-User Peak DL & UL Throughput with Multiple-HARQ",
+		"key" : "LTE4222",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "Combined Trace and PCMD reporting",
+		"key" : "LTE3857",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Massive MIMO",
+		"key" : "LTE2666",
+		"tags" : [
+			"Beamforming",
+			"Downlink Radio Transmission"
+		]
+	}
+	,
+	{
+		"title" : "Carrier Aggregation in Shared eNB",
+		"key" : "LTE3862",
+		"tags" : [
+			"Carrier Aggregation",
+			"Network Sharing"
+		]
+	}
+	,
+	{
+		"title" : "RRC connection  triggered Access Class Barring ",
+		"key" : "LTE2823",
+		"tags" : [
+			"Admission Control",
+			"Mass Events",
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "RACH load triggered ACB",
+		"key" : "LTE2235",
+		"tags" : [
+			"Admission Control",
+			"Mass Events",
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "Accelerated Voice Setup",
+		"key" : "RAN3376",
+		"tags" : [
+			"QoS"
+		]
+	}
+	,
+	{
+		"title" : "Nokia HSS 17.5 dimensioning",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "BTS QOS support for terminated and routed traffic",
+		"key" : "SR000402",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "QOS aware Ethernet switchin",
+		"key" : "SR000386",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "eDRX - IDLE",
+		"key" : "LTE3125",
+		"tags" : [
+			"IoT",
+			"Power Consumption",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "CA and MFBI interworking extensions",
+		"key" : "LTE3590",
+		"tags" : [
+			"Mobility & Multi-layer Optimization",
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "LTE18 IPsec complex",
+		"key" : "",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "LTE IPsec Support",
+		"key" : "LTE689",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPv4/IPv6 Concurrent IPsec Tunnels",
+		"key" : "LTE1980",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPsec Emergency Bypass",
+		"key" : "LTE1390",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Backup IPsec tunnel",
+		"key" : "LTE1753",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "X2 Mesh connectivity with IPsec",
+		"key" : "LTE1048",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "IPsec for BTS (Rel.13)",
+		"key" : "LTE739",
+		"tags" : [
+			"Security",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "Flexible Duplexing Gap",
+		"key" : "LTE3613",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{
+		"title" : "RG302437 Automated Symptom data transfer from BSC to external server ",
+		"key" : "RG302437",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "RG302454 Unique GSM CS Call ID ",
+		"key" : "RG302454",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "RG302550 BSC OAM support for SFTP and SSH ",
+		"key" : "RG302550",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "RG302442 Remote BTS FDSW download to GSM Flexi Multiradio 10 BTS ",
+		"key" : "RG302442",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "New object model interpretation in PKDB",
+		"key" : "",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{ "title" : "LTE-M (Part 1)", "key" : "LTE3128", "tags" : [ "IoT" ] }
+	,
+	{ "title" : "LTE-M (Part2)", "key" : "LTE3128", "tags" : [ "IoT" ] }
+	,
+	{
+		"title" : "Premium Voice Quality",
+		"key" : "RAN3365",
+		"tags" : [
+			"QoS",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "GBR support for 1.4 and 3 MHz cells",
+		"key" : "LTE2775",
+		"tags" : [
+			"Public Safety",
+			"RRM",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "TD-LTE 17A Radio Modules",
+		"key" : "",
+		"tags" : [
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "PIM Cancellation for CPRI-A Radios",
+		"key" : "LTE3368",
+		"tags" : [
+			"HW & Site Solutions",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Cat-M1 and NB-IoT on same LTE cell Phase II",
+		"key" : "LTE4040",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "Open TAS Cloud 18 Dimensioning Guideline",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "Multimedia Priority Services",
+		"key" : "LTE1074",
+		"tags" : [
+			"Admission Control",
+			"Public Safety"
+		]
+	}
+	,
+	{
+		"title" : "LTE18  LTE3555  Separate SCTP wait timer",
+		"key" : "LTE3555",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "LTERLCR-18702 Proactive Grants for VoLTE Robustness ",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "LTERLCR-18703 Improved TTI-B Exit ",
+		"key" : "",
+		"tags" : [
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "SRAN17A SBTS IP interfaces complex",
+		"key" : "",
+		"tags" : [
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "PM counter delta FL17A/TL17A",
+		"key" : "",
+		"tags" : [
+			"Performance"
+		]
+	}
+	,
+	{
+		"title" : "Cat-M1 VoLTE support Phase I",
+		"key" : "LTE4056",
+		"tags" : [
+			"IoT",
+			"VoLTE & VoWiFi"
+		]
+	}
+	,
+	{
+		"title" : "Idle Paging Repetition",
+		"key" : "RAN3292",
+		"tags" : [
+			"Mobility & Multi-layer Optimization"
+		]
+	}
+	,
+	{
+		"title" : "Narrowband Interference Cancellation",
+		"key" : "RAN3374",
+		"tags" : [
+			"Performance",
+			"Uplink Radio Reception"
+		]
+	}
+	,
+	{
+		"title" : "Extended cell range for Mini-Macro",
+		"key" : "LTE3744",
+		"tags" : [
+			"RRM"
+		]
+	}
+	,
+	{ "title" : "Lean GSM Solution", "key" : "RG302585", "tags" : [ "RRM" ] }
+	,
+	{
+		"title" : "Core LtD - 1 Core dimensioning tooling",
+		"key" : "",
+		"tags" : [
+			"Dimensioning",
+			"Telco Cloud"
+		]
+	}
+	,
+	{
+		"title" : "BTS QOS Support for Terminated and Routed Traffic",
+		"key" : "SR000402",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "QOS aware Ethernet Switching",
+		"key" : "SR000386",
+		"tags" : [
+			"QoS",
+			"Transport"
+		]
+	}
+	,
+	{
+		"title" : "BTS Mediator resiliency (Active-Standby)",
+		"key" : "SR001756",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Cat-M1: 15 & 20 MHz Support",
+		"key" : "LTE3597",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "Dimensioning guideline (Open TAS 18)",
+		"key" : "",
+		"tags" : [
+			"Dimensioning"
+		]
+	}
+	,
+	{
+		"title" : "LCS Accuracy through Early Soft Handover",
+		"key" : "RAN3351",
+		"tags" : [
+			"Location Services"
+		]
+	}
+	,
+	{
+		"title" : "Cat-M1 Semi-Static Repetition Support",
+		"key" : "LTE4177",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "LTE-M Enhancements I",
+		"key" : "LTE3582",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "High Memory Consumption Alarm for Nokia RP1/L3 Radio Modules",
+		"key" : "LTE2816",
+		"tags" : [
+			"Operability"
+		]
+	}
+	,
+	{
+		"title" : "Internet of Things - Introduction",
+		"key" : "",
+		"tags" : [
+			"IoT"
+		]
+	}
+	,
+	{
+		"title" : "Sync Hub Direct rqwrq",
+		"key" : "RG602339",
+		"tags" : [
+			"Peak Rate",
+			"Synchronization"
+		]
+	}
+	,
+	{
+		"title" : "Optimised HSDPA scheduler",
+		"key" : "RAN3269",
+		"tags" : [
+			"Beamforming",
+			"HW & Site Solutions"
+		]
+	}
+	,
+	{
+		"title" : "Introduction to SBTS Synchronization",
+		"key" : "",
+		"tags" : [
+			"Synchronization"
+		]
+	}
+	,
+	{ "title" : "asdasd", "key" : "", "tags" : [ "Admission Control" ] }
+	,
+	{
+		"title" : "asda",
+		"key" : "",
+		"tags" : [
+			"Downlink Radio Transmission"
+		]
+	}
+	,
+	{ "title" : "asfasf", "key" : "", "tags" : [ "Beamforming" ] }
+	,
+	{
+		"title" : "fwefwe",
+		"key" : "LTE44444",
+		"tags" : [
+			"Carrier Aggregation"
+		]
+	}
+	,
+	{ "title" : "wefwef", "key" : "LTE44445", "tags" : [ "Beamforming" ] }
+	,
+	{
+		"title" : "FL18 AirScale System Module Baseband Capacity and Dimensioning",
+		"key" : "LTE3299",
+		"tags" : [
+			"Dimensioning",
+			"HW & Site Solutions",
+			"IoT"
+		]
+	}
+	,
+	{ "title" : "asfa", "key" : "", "tags" : [ "Carrier Aggregation" ] }
+]
