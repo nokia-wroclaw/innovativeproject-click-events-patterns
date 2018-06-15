@@ -20,7 +20,6 @@ def getRecommendationForUser(user):
     userid =  numpy.where(userNames == user)[0][0]
     predictions = calclatePredicionsForUser(model, userid, userTestItems)
     results = prepareResults(predictions, userTestItems, data)
-    print(data.tail(1))
     return results
 
 def prepareDataForUser(user, data):
@@ -33,19 +32,6 @@ def prepareDataForUser(user, data):
 
 def calclatePredicionsForUser(model, user_id, userTestItems_ids = numpy.arange(50)):
     return model.predict(numpy.repeat(user_id, userTestItems_ids.size), userTestItems_ids)
-
-def get_top_n(predictions, n=10):
-    # First map the predictions to each user.
-    top_n = defaultdict(list)
-    for uid, iid, true_r, est, _ in predictions:
-        top_n[uid].append((iid, est))
-
-    # Then sort the predictions for each user and retrieve the k highest ones.
-    for uid, user_ratings in top_n.items():
-        user_ratings.sort(key=lambda x: x[1], reverse=True)
-        top_n[uid] = user_ratings[:n]
-
-    return top_n
 
 def prepareResults(predictions, userTestItems, df):
     df = df[df.actionCategory == "WebNei clicked"]

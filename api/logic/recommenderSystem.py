@@ -31,22 +31,30 @@ def prepareData(df, tags):
     dataset = Dataset()
     dataset.fit((list(actionByUsers.index.get_level_values(0))),
                 (list(actionByUsers.index.get_level_values(1))))
+
     rowM, colM = prepareJson(tags)
-    rowU = []
-    colU = []
-    for index, row in uniqueUsers.iterrows():
-        for rowA in row[12]:
-            colU.append(row[5])
-            rowU.append(rowA)
+    rowU, colU = prepareUserFeatures(uniqueUsers)
+
     dataset.fit_partial(items=rowM,
                         item_features=colM,
                         users=rowU,
                         user_features=colU)
+
     (interactions, weights) = dataset.build_interactions(
         zip(list(actionByUsers.index.get_level_values(0)), list(actionByUsers.index.get_level_values(1))))
     item_features = dataset.build_item_features(zip(rowM, [colM]))
     user_features = dataset.build_user_features(zip(rowU, [colU]))
     return interactions, item_features, user_features
+
+def prepareUserFeatures(users):
+    rowU = []
+    colU = []
+    for index, row in users.iterrows():
+        for rowA in row[12]:
+            colU.append(row[5])
+            rowU.append(rowA)
+    return rowU, colU
+
 
 
 def prepareJson(json):
